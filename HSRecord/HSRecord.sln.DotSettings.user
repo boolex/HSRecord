@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=64F836F1E36D4950990271F4B2DABB67/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=64F836F1E36D4950990271F4B2DABB67/GroupingIndex/@EntryValue">4</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=64F836F1E36D4950990271F4B2DABB67/Name/@EntryValue">All tests from ParserTest.cs</s:String>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionPersistentData/=64F836F1E36D4950990271F4B2DABB67/XmlSerializedElements/@EntryValue">&lt;Session&gt;&lt;e Id="HSRecord.UnitTests.ParserTest.TotalNumberOfTurnsInGrim1ShouldBe16" Project="DED923CB-A48A-416C-AC72-A7671C3CD25F" Provider="MSTest" /&gt;&lt;e Id="HSRecord.UnitTests.ParserTest" Project="DED923CB-A48A-416C-AC72-A7671C3CD25F" Provider="MSTest" /&gt;&lt;e Id="HSRecord.UnitTests.ParserTest.TotalNumberOfTurnsInGrim2ShouldBe19" Project="DED923CB-A48A-416C-AC72-A7671C3CD25F" Provider="MSTest" /&gt;&lt;e Id="HSRecord.UnitTests.ParserTest.Step1DrawInGrim2ShouldBeWarSong" Project="DED923CB-A48A-416C-AC72-A7671C3CD25F" Provider="MSTest" /&gt;&lt;/Session&gt;</s:String></wpf:ResourceDictionary>

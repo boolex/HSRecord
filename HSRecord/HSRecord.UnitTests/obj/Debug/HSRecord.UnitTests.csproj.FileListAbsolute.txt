@@ -1,0 +1,9 @@
+C:\Projects\HSRecord\HSRecord\HSRecord\HSRecord.UnitTests\obj\Debug\HSRecord.UnitTests.csprojResolveAssemblyReference.cache
+C:\Projects\HSRecord\HSRecord\HSRecord\HSRecord.UnitTests\bin\Debug\HSRecord.UnitTests.dll
+C:\Projects\HSRecord\HSRecord\HSRecord\HSRecord.UnitTests\bin\Debug\HSRecord.UnitTests.pdb
+C:\Projects\HSRecord\HSRecord\HSRecord\HSRecord.UnitTests\bin\Debug\HSRecord.Core.dll
+C:\Projects\HSRecord\HSRecord\HSRecord\HSRecord.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\HSRecord\HSRecord\HSRecord\HSRecord.UnitTests\bin\Debug\HSRecord.Core.pdb
+C:\Projects\HSRecord\HSRecord\HSRecord\HSRecord.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\HSRecord\HSRecord\HSRecord\HSRecord.UnitTests\obj\Debug\HSRecord.UnitTests.dll
+C:\Projects\HSRecord\HSRecord\HSRecord\HSRecord.UnitTests\obj\Debug\HSRecord.UnitTests.pdb

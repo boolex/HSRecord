@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSRecord.Core", "HSRecord.Core\HSRecord.Core.csproj", "{2E4B801F-58DB-4F4A-8B1C-E118176E9244}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSRecord.UnitTests", "HSRecord.UnitTests\HSRecord.UnitTests.csproj", "{DED923CB-A48A-416C-AC72-A7671C3CD25F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSRecord.Terminal", "HSRecord.Terminal\HSRecord.Terminal.csproj", "{6B61AB4A-7AC2-461E-9EEB-1BD684E0E0A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E4B801F-58DB-4F4A-8B1C-E118176E9244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4B801F-58DB-4F4A-8B1C-E118176E9244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4B801F-58DB-4F4A-8B1C-E118176E9244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4B801F-58DB-4F4A-8B1C-E118176E9244}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED923CB-A48A-416C-AC72-A7671C3CD25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED923CB-A48A-416C-AC72-A7671C3CD25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED923CB-A48A-416C-AC72-A7671C3CD25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED923CB-A48A-416C-AC72-A7671C3CD25F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B61AB4A-7AC2-461E-9EEB-1BD684E0E0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B61AB4A-7AC2-461E-9EEB-1BD684E0E0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B61AB4A-7AC2-461E-9EEB-1BD684E0E0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B61AB4A-7AC2-461E-9EEB-1BD684E0E0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
