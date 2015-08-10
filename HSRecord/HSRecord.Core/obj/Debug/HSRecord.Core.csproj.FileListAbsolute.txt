@@ -5,3 +5,10 @@ C:\Projects\HSRecord\HSRecord\HSRecord\HSRecord.Core\obj\Debug\HSRecord.Core.pdb
 C:\Projects\HSRecord\HSRecord\HSRecord\HSRecord.Core\bin\Debug\Newtonsoft.Json.dll
 C:\Projects\HSRecord\HSRecord\HSRecord\HSRecord.Core\bin\Debug\Newtonsoft.Json.xml
 C:\Projects\HSRecord\HSRecord\HSRecord\HSRecord.Core\obj\Debug\HSRecord.Core.csprojResolveAssemblyReference.cache
+C:\prog\HSRecord\HSRecord\HSRecord.Core\obj\Debug\HSRecord.Core.csprojResolveAssemblyReference.cache
+C:\prog\HSRecord\HSRecord\HSRecord.Core\obj\Debug\HSRecord.Core.dll
+C:\prog\HSRecord\HSRecord\HSRecord.Core\bin\Debug\HSRecord.Core.dll
+C:\prog\HSRecord\HSRecord\HSRecord.Core\bin\Debug\HSRecord.Core.pdb
+C:\prog\HSRecord\HSRecord\HSRecord.Core\bin\Debug\Newtonsoft.Json.dll
+C:\prog\HSRecord\HSRecord\HSRecord.Core\bin\Debug\Newtonsoft.Json.xml
+C:\prog\HSRecord\HSRecord\HSRecord.Core\obj\Debug\HSRecord.Core.pdb

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3a4d2cd5-7117-4879-8ec6-c5f8d8bd87a7" name="Lex@LEX-PC 2015-08-11 00:24:07" runUser="Lex-PC\Lex" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="217fc0f2-cd6b-4b80-9b12-234d98a6131a">
+    <Deployment userDeploymentRoot="C:\prog\HSRecord" useDefaultDeploymentRoot="false" runDeploymentRoot="Lex_LEX-PC 2015-08-11 00_24_07" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Properties />
+  </TestSettings>
+  <Times creation="2015-08-11T00:24:07.6245845+03:00" queuing="2015-08-11T00:24:10.3227388+03:00" start="2015-08-11T00:24:10.7507633+03:00" finish="2015-08-11T00:24:13.1619012+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="2" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TotalNumberOfTurnsInGrim2ShouldBe19" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="0c8d7eb6-fe75-0116-f6e1-76aae568796f">
+      <Execution id="485e26b7-a658-4c36-b65c-e53f8dbd3cf6" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.ParserTest, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TotalNumberOfTurnsInGrim2ShouldBe19" />
+    </UnitTest>
+    <UnitTest name="Step1DrawInGrim2ShouldBeWarSong" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="ac1ea863-5bcf-0997-cc36-ed4229c76fce">
+      <Execution id="67b179b7-96f6-4d03-afcb-5c7234120d46" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.ParserTest, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step1DrawInGrim2ShouldBeWarSong" />
+    </UnitTest>
+    <UnitTest name="Step3DrawInGrim2ShouldExist" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="fcbcd70d-7ada-e1d3-75c1-1b358e7eeb27">
+      <Execution id="276792ef-9fa9-4b06-aa03-2e3ac00c2734" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.ParserTest, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step3DrawInGrim2ShouldExist" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ac1ea863-5bcf-0997-cc36-ed4229c76fce" executionId="67b179b7-96f6-4d03-afcb-5c7234120d46" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fcbcd70d-7ada-e1d3-75c1-1b358e7eeb27" executionId="276792ef-9fa9-4b06-aa03-2e3ac00c2734" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0c8d7eb6-fe75-0116-f6e1-76aae568796f" executionId="485e26b7-a658-4c36-b65c-e53f8dbd3cf6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="67b179b7-96f6-4d03-afcb-5c7234120d46" testId="ac1ea863-5bcf-0997-cc36-ed4229c76fce" testName="Step1DrawInGrim2ShouldBeWarSong" computerName="LEX-PC" duration="00:00:00.7180404" startTime="2015-08-11T00:24:10.8557693+03:00" endTime="2015-08-11T00:24:12.0348367+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="67b179b7-96f6-4d03-afcb-5c7234120d46">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;Командир песни войны&gt;. Actual:&lt;&gt;. </Message>
+          <StackTrace>   at HSRecord.UnitTests.ParserTest.Step1DrawInGrim2ShouldBeWarSong() in c:\prog\HSRecord\HSRecord\HSRecord.UnitTests\ParserTest.cs:line 41
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="276792ef-9fa9-4b06-aa03-2e3ac00c2734" testId="fcbcd70d-7ada-e1d3-75c1-1b358e7eeb27" testName="Step3DrawInGrim2ShouldExist" computerName="LEX-PC" duration="00:00:00.4672669" startTime="2015-08-11T00:24:12.0458374+03:00" endTime="2015-08-11T00:24:12.5178644+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="276792ef-9fa9-4b06-aa03-2e3ac00c2734">
+    </UnitTestResult>
+    <UnitTestResult executionId="485e26b7-a658-4c36-b65c-e53f8dbd3cf6" testId="0c8d7eb6-fe75-0116-f6e1-76aae568796f" testName="TotalNumberOfTurnsInGrim2ShouldBe19" computerName="LEX-PC" duration="00:00:00.4724709" startTime="2015-08-11T00:24:12.5198645+03:00" endTime="2015-08-11T00:24:12.9958917+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="485e26b7-a658-4c36-b65c-e53f8dbd3cf6">
+    </UnitTestResult>
+  </Results>
+</TestRun>
