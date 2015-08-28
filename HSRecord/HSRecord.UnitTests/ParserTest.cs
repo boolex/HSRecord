@@ -38,7 +38,7 @@ namespace HSRecord.UnitTests
 		{
 			HSParser parser = new HSParser();
 			Game game = parser.ParseGame(Grim2FilePath);
-			var turn = game.Turns.Single(x =>x.TurnIndex == 1);
+			var turn = game.Turns.Single(x =>x.TurnIndex == 2);
 			var draw = (DrawCardAct)(turn.Acts.FirstOrDefault(x => x.Type == ActType.Draw));
 			Assert.AreEqual("Командир песни войны", draw.Card.Name);
 		}

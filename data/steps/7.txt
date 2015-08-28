@@ -1,0 +1,1279 @@
+[Power] GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_READY
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_START Entity=boolex SubType=TRIGGER Index=-1 Target=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Гаррош Адский Крик id=4 zone=PLAY zonePos=0 cardId=HERO_01 player=1] tag=NUM_TURNS_IN_PLAY value=4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Поднять щит! id=5 zone=PLAY zonePos=0 cardId=CS2_102 player=1] tag=NUM_TURNS_IN_PLAY value=4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=RESOURCES value=4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=RESOURCES_USED value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=COMBO_ACTIVE value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Боевой робот id=57 zone=PLAY zonePos=1 cardId=GVG_051 player=2] tag=NUM_ATTACKS_THIS_TURN value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=NUM_CARDS_PLAYED_THIS_TURN value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=NUM_MINIONS_PLAYED_THIS_TURN value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=NUM_OPTIONS_PLAYED_THIS_TURN value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=NUM_CARDS_DRAWN_THIS_TURN value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_START_TRIGGERS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_TURN value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_START_TRIGGERS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_START Entity=boolex SubType=TRIGGER Index=-1 Target=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_START
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_START
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_START Entity=boolex SubType=TRIGGER Index=-1 Target=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     SHOW_ENTITY - Updating Entity=[id=26 cardId= type=INVALID zone=DECK zonePos=0 player=1] CardID=FP1_021
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -         tag=ATK value=4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -         tag=COST value=4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -         tag=ZONE value=HAND
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -         tag=DURABILITY value=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -         tag=CARDTYPE value=WEAPON
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -         tag=RARITY value=COMMON
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -         tag=DEATHRATTLE value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[id=26 cardId= type=INVALID zone=DECK zonePos=0 player=1] tag=ZONE_POSITION value=6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=NUM_CARDS_DRAWN_THIS_TURN value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=NUM_MINIONS_PLAYER_KILLED_THIS_TURN value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NUM_MINIONS_KILLED_THIS_TURN value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_ACTION
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_ACTION
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_START Entity=boolex SubType=TRIGGER Index=-1 Target=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - TAG_CHANGE Entity=boolex tag=NUM_OPTIONS value=8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=156
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=157
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=157
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=158
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=158
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=159
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=159
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=160
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=160
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=161
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() - id=19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() -   option 0 type=END_TURN mainEntity=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() -   option 1 type=POWER mainEntity=[name=Вихрь id=9 zone=HAND zonePos=1 cardId=EX1_400 player=1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() -   option 2 type=POWER mainEntity=[name=Боевая ярость id=21 zone=HAND zonePos=2 cardId=EX1_392 player=1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() -   option 3 type=POWER mainEntity=[name=Командир Песни Войны id=31 zone=HAND zonePos=3 cardId=EX1_084 player=1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() -   option 4 type=POWER mainEntity=[name=Гном-изобретатель id=27 zone=HAND zonePos=4 cardId=CS2_147 player=1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() -   option 5 type=POWER mainEntity=[name=Мастер брони id=6 zone=HAND zonePos=5 cardId=EX1_402 player=1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() -   option 6 type=POWER mainEntity=[id=26 cardId= type=INVALID zone=DECK zonePos=0 player=1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() -   option 7 type=POWER mainEntity=[name=Поднять щит! id=5 zone=PLAY zonePos=0 cardId=CS2_102 player=1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[FaceDownCard] Card.SetDoNotSort() - card=[name=Гаррош Адский Крик id=36 zone=PLAY zonePos=0 cardId=HERO_01 player=2] bOn=True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[FaceDownCard] Card.SetDoNotSort() - card=[name=Гаррош Адский Крик id=36 zone=PLAY zonePos=0 cardId=HERO_01 player=2] bOn=False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=161
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=162
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=162
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=163
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=163
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=164
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=164
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=165
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneMgr.AddServerZoneChanges() - taskListId=165 changeListId=23 taskStart=0 taskEnd=4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - m_id=23 m_taskList=165 m_changes.Count=5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=0 change=powerTask=[power=[type=TAG_CHANGE entity=[id=3 cardId= name=Dlirio] tag=334 value=0] complete=False] entity=Dlirio srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=1 change=powerTask=[power=[type=TAG_CHANGE entity=[id=53 cardId=CS2_106 name=Огненная секира] tag=ZONE value=GRAVEYARD] complete=False] entity=[name=Огненная секира id=53 zone=PLAY zonePos=0 cardId=CS2_106 player=2] srcZoneTag=INVALID srcPos= dstZoneTag=GRAVEYARD dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - TRANSITIONING card [name=Огненная секира id=53 zone=GRAVEYARD zonePos=0 cardId=CS2_106 player=2] to OPPOSING GRAVEYARD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - id=23 local=False [name=Огненная секира id=53 zone=GRAVEYARD zonePos=0 cardId=CS2_106 player=2] zone from OPPOSING PLAY (Weapon) -> OPPOSING GRAVEYARD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=2 change=powerTask=[power=[type=TAG_CHANGE entity=[id=53 cardId=CS2_106 name=Огненная секира] tag=IGNORE_DAMAGE value=1] complete=False] entity=[name=Огненная секира id=53 zone=GRAVEYARD zonePos=0 cardId=CS2_106 player=2] srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - START waiting for [name=Огненная секира id=53 zone=GRAVEYARD zonePos=0 cardId=CS2_106 player=2] to load (powerTask=(not null))
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - END waiting for [name=Огненная секира id=53 zone=GRAVEYARD zonePos=0 cardId=CS2_106 player=2] to load (powerTask=(not null))
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=3 change=powerTask=[power=[type=TAG_CHANGE entity=[id=53 cardId=CS2_106 name=Огненная секира] tag=DAMAGE value=0] complete=False] entity=[name=Огненная секира id=53 zone=GRAVEYARD zonePos=0 cardId=CS2_106 player=2] srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=4 change=powerTask=[power=[type=TAG_CHANGE entity=[id=53 cardId=CS2_106 name=Огненная секира] tag=IGNORE_DAMAGE_OFF value=1] complete=False] entity=[name=Огненная секира id=53 zone=GRAVEYARD zonePos=0 cardId=CS2_106 player=2] srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.UpdateDirtyZones() - m_id=23 loadingEntities.Count=0 m_dirtyZones.Count=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.Finish() - id=23 changes=5 complete=True local=False localTrigger=[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.FireCompleteCallback() - m_id=23 m_taskList=165 m_changes.Count=5 m_complete=True m_completeCallback=(not null)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=165
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=166
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=166
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=167
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=167
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=168
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=168
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=169
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=169
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=170
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=170
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=171
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=171
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=172
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=172
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=173
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=173
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=174
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=174
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=175
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=175
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=176
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=176
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=177
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=177
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=178
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=178
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=179
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=179
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=180
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneMgr.AddServerZoneChanges() - taskListId=180 changeListId=24 taskStart=0 taskEnd=5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - m_id=24 m_taskList=180 m_changes.Count=6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=0 change=powerTask=[power=[type=SHOW_ENTITY entity=[id=26 cardId=FP1_021 name=[id=26 cardId= type=INVALID zone=DECK zonePos=0 player=1]] tags=System.Collections.Generic.List`1[Network+Entity+Tag]] complete=False] entity=[id=26 cardId= type=INVALID zone=DECK zonePos=0 player=1] srcZoneTag=INVALID srcPos= dstZoneTag=HAND dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - TRANSITIONING card [name=Укус смерти id=26 zone=HAND zonePos=0 cardId=FP1_021 player=1] to FRIENDLY HAND
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - START waiting for [name=Укус смерти id=26 zone=HAND zonePos=0 cardId=FP1_021 player=1] to load (zoneChanged=True controllerChanged=False powerTask=(not null))
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - END waiting for [name=Укус смерти id=26 zone=HAND zonePos=0 cardId=FP1_021 player=1] to load (zoneChanged=True controllerChanged=False powerTask=(not null))
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - id=24 local=False [name=Укус смерти id=26 zone=HAND zonePos=0 cardId=FP1_021 player=1] zone from FRIENDLY DECK -> FRIENDLY HAND
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=1 change=powerTask=[power=[type=TAG_CHANGE entity=[id=26 cardId=FP1_021 name=Укус смерти] tag=ZONE_POSITION value=6] complete=False] entity=[name=Укус смерти id=26 zone=HAND zonePos=0 cardId=FP1_021 player=1] srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - START waiting for [name=Укус смерти id=26 zone=HAND zonePos=0 cardId=FP1_021 player=1] to load (powerTask=(not null))
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - END waiting for [name=Укус смерти id=26 zone=HAND zonePos=0 cardId=FP1_021 player=1] to load (powerTask=(not null))
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - id=24 local=False [name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] pos from 0 -> 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=2 change=powerTask=[power=[type=TAG_CHANGE entity=[id=2 cardId= name=boolex] tag=NUM_CARDS_DRAWN_THIS_TURN value=1] complete=False] entity=boolex srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=3 change=powerTask=[power=[type=TAG_CHANGE entity=[id=2 cardId= name=boolex] tag=NUM_MINIONS_PLAYER_KILLED_THIS_TURN value=0] complete=False] entity=boolex srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=4 change=powerTask=[power=[type=TAG_CHANGE entity=[id=1 cardId= name=GameEntity] tag=NUM_MINIONS_KILLED_THIS_TURN value=0] complete=False] entity=GameEntity srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=5 change=powerTask=[power=[type=TAG_CHANGE entity=[id=1 cardId= name=GameEntity] tag=NEXT_STEP value=MAIN_ACTION] complete=False] entity=GameEntity srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.UpdateDirtyZones() - m_id=24 loadingEntities.Count=0 m_dirtyZones.Count=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.UpdateDirtyZones() - m_id=24 START waiting for zone FRIENDLY DECK
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.OnUpdateLayoutComplete() - m_id=24 END waiting for zone FRIENDLY DECK
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.UpdateDirtyZones() - m_id=24 START waiting for zone FRIENDLY HAND
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.OnUpdateLayoutComplete() - m_id=24 END waiting for zone FRIENDLY HAND
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.Finish() - id=24 changes=6 complete=True local=False localTrigger=[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.FireCompleteCallback() - m_id=24 m_taskList=180 m_changes.Count=6 m_complete=True m_completeCallback=(not null)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=180
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=181
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=181
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=182
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=182
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=183
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=183
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.SendOption() - selectedOption=6 selectedSubOption=-1 selectedTarget=0 selectedPosition=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneMgr.CreateLocalChangeList() - changeListId=3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneMgr.CreateLocalChangesFromTrigger() - id=3 changes=1 complete=False local=True localTrigger=[powerTask=[] entity=[name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] srcZoneTag=HAND srcPos=6 dstZoneTag=PLAY dstPos=0]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneMgr.CreateLocalChangesFromTrigger() - triggerEntity=[name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] srcZone=HAND srcPos=6 dstZone=PLAY dstPos=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneMgr.CreateLocalChangesFromTrigger() - srcPos=6 destPos=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneMgr.ProcessLocalChangeList() - [id=3 changes=1 complete=False local=True localTrigger=[powerTask=[] entity=[name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] srcZoneTag=HAND srcPos=6 dstZoneTag=PLAY dstPos=0]]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - m_id=3 m_taskList=(null) m_changes.Count=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=0 change=powerTask=[] entity=[name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] srcZoneTag=HAND srcPos=6 dstZoneTag=PLAY dstPos=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - TRANSITIONING card [name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] to FRIENDLY PLAY (Weapon)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - id=3 local=True [name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] zone from FRIENDLY HAND -> FRIENDLY PLAY (Weapon)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.UpdateDirtyZones() - m_id=3 loadingEntities.Count=1 m_dirtyZones.Count=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.UpdateDirtyZones() - m_id=3 START waiting for [name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] to load (card=[name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.UpdateDirtyZones() - m_id=3 END waiting for [name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] to load (card=[name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1])
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.UpdateDirtyZones() - m_id=3 START waiting for zone FRIENDLY HAND
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.UpdateDirtyZones() - m_id=3 START waiting for zone FRIENDLY PLAY (Weapon)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPowerList() - Count=15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_START Entity=[name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] SubType=PLAY Index=0 Target=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=RESOURCES_USED value=4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=NUM_CARDS_PLAYED_THIS_TURN value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] tag=ZONE value=PLAY
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] tag=ZONE_POSITION value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] tag=JUST_PLAYED value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=LAST_CARD_PLAYED value=26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     ACTION_START Entity=[name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] SubType=POWER Index=-1 Target=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     ACTION_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=334 value=26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Гаррош Адский Крик id=4 zone=PLAY zonePos=0 cardId=HERO_01 player=1] tag=ATK value=4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=COMBO_ACTIVE value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=NUM_OPTIONS_PLAYED_THIS_TURN value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - TAG_CHANGE Entity=boolex tag=NUM_OPTIONS value=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.OnUpdateLayoutComplete() - m_id=3 END waiting for zone FRIENDLY HAND
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() - id=20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() -   option 0 type=END_TURN mainEntity=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() -   option 1 type=POWER mainEntity=[name=Гаррош Адский Крик id=4 zone=PLAY zonePos=0 cardId=HERO_01 player=1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() -     target 0 entity=[name=Гаррош Адский Крик id=36 zone=PLAY zonePos=0 cardId=HERO_01 player=2]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() -     target 1 entity=[name=Боевой робот id=57 zone=PLAY zonePos=1 cardId=GVG_051 player=2]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() -     target 2 entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=184
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=184
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=185
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.DoTaskListForCard() - actionStart has unhandled SubType PLAY for sourceEntity [name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneMgr.AddServerZoneChanges() - taskListId=185 changeListId=25 taskStart=0 taskEnd=5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - m_id=25 m_taskList=185 m_changes.Count=6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=0 change=powerTask=[power=[type=TAG_CHANGE entity=[id=2 cardId= name=boolex] tag=RESOURCES_USED value=4] complete=False] entity=boolex srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=1 change=powerTask=[power=[type=TAG_CHANGE entity=[id=2 cardId= name=boolex] tag=NUM_CARDS_PLAYED_THIS_TURN value=1] complete=False] entity=boolex srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=2 change=powerTask=[power=[type=TAG_CHANGE entity=[id=26 cardId=FP1_021 name=Укус смерти] tag=ZONE value=PLAY] complete=False] entity=[name=Укус смерти id=26 zone=HAND zonePos=6 cardId=FP1_021 player=1] srcZoneTag=INVALID srcPos= dstZoneTag=PLAY dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=3 change=powerTask=[power=[type=TAG_CHANGE entity=[id=26 cardId=FP1_021 name=Укус смерти] tag=ZONE_POSITION value=0] complete=False] entity=[name=Укус смерти id=26 zone=PLAY zonePos=6 cardId=FP1_021 player=1] srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=4 change=powerTask=[power=[type=TAG_CHANGE entity=[id=26 cardId=FP1_021 name=Укус смерти] tag=JUST_PLAYED value=1] complete=False] entity=[name=Укус смерти id=26 zone=PLAY zonePos=0 cardId=FP1_021 player=1] srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=5 change=powerTask=[power=[type=TAG_CHANGE entity=[id=2 cardId= name=boolex] tag=LAST_CARD_PLAYED value=26] complete=False] entity=boolex srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.UpdateDirtyZones() - m_id=25 loadingEntities.Count=0 m_dirtyZones.Count=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.Finish() - id=25 changes=6 complete=True local=False localTrigger=[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.FireCompleteCallback() - m_id=25 m_taskList=185 m_changes.Count=6 m_complete=True m_completeCallback=(not null)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=185
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=186
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=186
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=187
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.DoTaskListForCard() - actionStart has unhandled SubType PLAY for sourceEntity [name=Укус смерти id=26 zone=PLAY zonePos=0 cardId=FP1_021 player=1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=187
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=188
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=188
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.OnUpdateLayoutComplete() - m_id=3 END waiting for zone FRIENDLY PLAY (Weapon)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.Finish() - id=3 changes=1 complete=True local=True localTrigger=[powerTask=[] entity=[name=Укус смерти id=26 zone=PLAY zonePos=0 cardId=FP1_021 player=1] srcZoneTag=HAND srcPos=6 dstZoneTag=PLAY dstPos=0]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.FireCompleteCallback() - m_id=3 m_taskList=(null) m_changes.Count=1 m_complete=True m_completeCallback=(null)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.SendOption() - selectedOption=1 selectedSubOption=-1 selectedTarget=48 selectedPosition=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPowerList() - Count=50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_START Entity=[name=Гаррош Адский Крик id=4 zone=PLAY zonePos=0 cardId=HERO_01 player=1] SubType=ATTACK Index=-1 Target=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=PROPOSED_ATTACKER value=4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=PROPOSED_DEFENDER value=48
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Гаррош Адский Крик id=4 zone=PLAY zonePos=0 cardId=HERO_01 player=1] tag=ATTACKING value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_ACTION
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_COMBAT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=NUM_OPTIONS_PLAYED_THIS_TURN value=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] tag=DEFENDING value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] tag=PREDAMAGE value=4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] tag=PREDAMAGE value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     META_DATA - Meta=META_DAMAGE Data=4 Info=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] tag=LAST_AFFECTED_BY value=4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] tag=DAMAGE value=4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Гаррош Адский Крик id=4 zone=PLAY zonePos=0 cardId=HERO_01 player=1] tag=PREDAMAGE value=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Гаррош Адский Крик id=4 zone=PLAY zonePos=0 cardId=HERO_01 player=1] tag=PREDAMAGE value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     META_DATA - Meta=META_DAMAGE Data=2 Info=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Гаррош Адский Крик id=4 zone=PLAY zonePos=0 cardId=HERO_01 player=1] tag=LAST_AFFECTED_BY value=48
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Гаррош Адский Крик id=4 zone=PLAY zonePos=0 cardId=HERO_01 player=1] tag=DAMAGE value=8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     ACTION_START Entity=boolex SubType=TRIGGER Index=-1 Target=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -         TAG_CHANGE Entity=[name=Укус смерти id=26 zone=PLAY zonePos=0 cardId=FP1_021 player=1] tag=PREDAMAGE value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -         TAG_CHANGE Entity=[name=Укус смерти id=26 zone=PLAY zonePos=0 cardId=FP1_021 player=1] tag=PREDAMAGE value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -         META_DATA - Meta=META_DAMAGE Data=1 Info=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -         TAG_CHANGE Entity=[name=Укус смерти id=26 zone=PLAY zonePos=0 cardId=FP1_021 player=1] tag=LAST_AFFECTED_BY value=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -         TAG_CHANGE Entity=[name=Укус смерти id=26 zone=PLAY zonePos=0 cardId=FP1_021 player=1] tag=DAMAGE value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     ACTION_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Гаррош Адский Крик id=4 zone=PLAY zonePos=0 cardId=HERO_01 player=1] tag=NUM_ATTACKS_THIS_TURN value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Гаррош Адский Крик id=4 zone=PLAY zonePos=0 cardId=HERO_01 player=1] tag=EXHAUSTED value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=PROPOSED_ATTACKER value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=PROPOSED_DEFENDER value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Гаррош Адский Крик id=4 zone=PLAY zonePos=0 cardId=HERO_01 player=1] tag=ATTACKING value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] tag=DEFENDING value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_START Entity=GameEntity SubType=DEATHS Index=0 Target=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=Dlirio tag=NUM_MINIONS_PLAYER_KILLED_THIS_TURN value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NUM_MINIONS_KILLED_THIS_TURN value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] tag=EXHAUSTED value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=Dlirio tag=NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_TURN value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] tag=ZONE value=GRAVEYARD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] tag=IGNORE_DAMAGE value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] tag=DAMAGE value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] tag=IGNORE_DAMAGE_OFF value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] tag=ZONE_POSITION value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - TAG_CHANGE Entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] tag=IGNORE_DAMAGE value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - TAG_CHANGE Entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] tag=IGNORE_DAMAGE_OFF value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_ACTION
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_START Entity=boolex SubType=TRIGGER Index=-1 Target=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - TAG_CHANGE Entity=boolex tag=NUM_OPTIONS value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=189
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=189
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=190
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[FaceDownCard] Card.SetDoNotSort() - card=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] bOn=True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() - id=21
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintOptions() -   option 0 type=END_TURN mainEntity=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[FaceDownCard] Card.SetDoNotSort() - card=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] bOn=False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=190
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=191
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=191
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=192
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=192
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=193
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=193
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=194
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneMgr.AddServerZoneChanges() - taskListId=194 changeListId=26 taskStart=0 taskEnd=8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - m_id=26 m_taskList=194 m_changes.Count=9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=0 change=powerTask=[power=[type=TAG_CHANGE entity=[id=3 cardId= name=Dlirio] tag=NUM_MINIONS_PLAYER_KILLED_THIS_TURN value=1] complete=False] entity=Dlirio srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=1 change=powerTask=[power=[type=TAG_CHANGE entity=[id=1 cardId= name=GameEntity] tag=NUM_MINIONS_KILLED_THIS_TURN value=1] complete=False] entity=GameEntity srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=2 change=powerTask=[power=[type=TAG_CHANGE entity=[id=48 cardId=EX1_084 name=Командир Песни Войны] tag=EXHAUSTED value=0] complete=False] entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=3 change=powerTask=[power=[type=TAG_CHANGE entity=[id=3 cardId= name=Dlirio] tag=NUM_FRIENDLY_MINIONS_THAT_DIED_THIS_TURN value=1] complete=False] entity=Dlirio srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=4 change=powerTask=[power=[type=TAG_CHANGE entity=[id=48 cardId=EX1_084 name=Командир Песни Войны] tag=ZONE value=GRAVEYARD] complete=False] entity=[name=Командир Песни Войны id=48 zone=PLAY zonePos=2 cardId=EX1_084 player=2] srcZoneTag=INVALID srcPos= dstZoneTag=GRAVEYARD dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - TRANSITIONING card [name=Командир Песни Войны id=48 zone=GRAVEYARD zonePos=2 cardId=EX1_084 player=2] to OPPOSING GRAVEYARD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - id=26 local=False [name=Командир Песни Войны id=48 zone=GRAVEYARD zonePos=2 cardId=EX1_084 player=2] zone from OPPOSING PLAY -> OPPOSING GRAVEYARD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=5 change=powerTask=[power=[type=TAG_CHANGE entity=[id=48 cardId=EX1_084 name=Командир Песни Войны] tag=IGNORE_DAMAGE value=1] complete=False] entity=[name=Командир Песни Войны id=48 zone=GRAVEYARD zonePos=2 cardId=EX1_084 player=2] srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - START waiting for [name=Командир Песни Войны id=48 zone=GRAVEYARD zonePos=2 cardId=EX1_084 player=2] to load (powerTask=(not null))
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - END waiting for [name=Командир Песни Войны id=48 zone=GRAVEYARD zonePos=2 cardId=EX1_084 player=2] to load (powerTask=(not null))
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=6 change=powerTask=[power=[type=TAG_CHANGE entity=[id=48 cardId=EX1_084 name=Командир Песни Войны] tag=DAMAGE value=0] complete=False] entity=[name=Командир Песни Войны id=48 zone=GRAVEYARD zonePos=2 cardId=EX1_084 player=2] srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=7 change=powerTask=[power=[type=TAG_CHANGE entity=[id=48 cardId=EX1_084 name=Командир Песни Войны] tag=IGNORE_DAMAGE_OFF value=1] complete=False] entity=[name=Командир Песни Войны id=48 zone=GRAVEYARD zonePos=2 cardId=EX1_084 player=2] srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.ProcessChanges() - processing index=8 change=powerTask=[power=[type=TAG_CHANGE entity=[id=48 cardId=EX1_084 name=Командир Песни Войны] tag=ZONE_POSITION value=0] complete=False] entity=[name=Командир Песни Войны id=48 zone=GRAVEYARD zonePos=2 cardId=EX1_084 player=2] srcZoneTag=INVALID srcPos= dstZoneTag=INVALID dstPos=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.UpdateDirtyZones() - m_id=26 loadingEntities.Count=0 m_dirtyZones.Count=2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.Finish() - id=26 changes=9 complete=True local=False localTrigger=[]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Zone] ZoneChangeList.FireCompleteCallback() - m_id=26 m_taskList=194 m_changes.Count=9 m_complete=True m_completeCallback=(not null)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=194
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=195
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=195
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=196
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=196
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.PrepareHistoryForCurrentTaskList() - m_currentTaskList=197
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] PowerProcessor.EndCurrentTaskList() - m_currentTaskList=197
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.SendOption() - selectedOption=0 selectedSubOption=-1 selectedTarget=0 selectedPosition=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPowerList() - Count=56
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_START Entity=boolex SubType=TRIGGER Index=-1 Target=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_CLEANUP
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_CLEANUP
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_START Entity=boolex SubType=TRIGGER Index=-1 Target=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Укус смерти id=26 zone=PLAY zonePos=0 cardId=FP1_021 player=1] tag=JUST_PLAYED value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_NEXT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=[name=Укус смерти id=26 zone=PLAY zonePos=0 cardId=FP1_021 player=1] tag=EXHAUSTED value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - TAG_CHANGE Entity=GameEntity tag=STEP value=MAIN_NEXT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_START Entity=GameEntity SubType=TRIGGER Index=-1 Target=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=NUM_TURNS_LEFT value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=NUM_TURNS_LEFT value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=CURRENT_PLAYER value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=Dlirio tag=CURRENT_PLAYER value=1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=TURN value=8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=GameEntity tag=NEXT_STEP value=MAIN_READY
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - ACTION_END
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+[Power] GameState.DebugPrintPower() - TAG_CHANGE Entity=[name=Гаррош Адский Крик id=4 zone=PLAY zonePos=0 cardId=HERO_01 player=1] tag=ATK value=0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)

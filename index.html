@@ -1,0 +1,90 @@
+<html>
+<head>
+	<script src="game.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="container" class="container"></div>
+</body>
+<script type="text/javascript">
+window.levelColor = ["#C5D9E0", "#7BE8D0", "#7BE8B2", "#4BBF5C", "#7FBF4B", "#A6BF4B", "#948D7F"];
+	var container = document.getElementById("container");
+	var level = 0;
+	show(game, container, "GAME", level);
+	setStyles();
+	
+	function show(x, container, name, level){	
+		var currentLevel = level + 1;
+		if(isObject(x))
+			return showObject(x, container, name, currentLevel);
+		if(isArray(x))
+			return showArray(x, container, name, currentLevel);
+		if(isString(x))
+			return showString(x, container, name, currentLevel);
+		if(isNumber(x))
+			return showNumber(x, container, name, currentLevel);			
+	}	
+	function showArray(x, container, name, level){
+		for(var i = 0; i < x.length; i++){
+			show(x[i], container, name, level);
+		}
+	}
+	function showObject(x, container, name, level){		
+		for(var name in x){
+			if(!x.hasOwnProperty(name))	continue;
+			showTitle(name, container, name, level);
+			show(x[name], container, name, level);
+		}
+	}
+	function showString(x, container, name, level){
+		showTitle(x, container, name, level);
+	}
+	function showNumber(x, container, name, level){
+		showTitle(x, container, name, level);
+	}
+	function showTitle(text, container, name, level){
+		var element = document.createElement("div");
+		element.setAttribute("level", level);
+		element.className = "level-item container";
+		var elementTag = document.createElement("div");
+		elementTag.innerHTML = text;			
+		element.appendChild(elementTag);
+		container.appendChild(element);
+	}
+	function isArray(x){
+		return Object.prototype.toString.call(x) === '[object Array]';
+	}
+	function isString(x){
+		return Object.prototype.toString.call(x) === '[object String]';
+	}
+	function isNumber(x){
+		return Object.prototype.toString.call(x) === '[object Number]';
+	}
+	function isObject(x){
+		return Object.prototype.toString.call(x) === '[object Object]';
+	}
+	function isBoolean(x){
+	
+		return Object.prototype.toString.call(x) === '[object Boolean]';
+	}
+	function setStyles(){
+		var elements = document.getElementsByClassName("level-item");
+		for(var i = 0; i < elements.length; i++){
+			var level = elements[i].getAttribute("level");
+			setIntend(elements[i], level);
+			setColor(elements[i], level);
+		}
+	}
+	function setIntend(e, level){		
+		e.style.marginLeft = (level * 20)+"px";
+	}
+	function setColor(e, level){
+		e.style.background = levelColor[parseInt(level)];
+		e.style.padding = "10px";
+	}
+	</script>
+<style>
+	.container{
+		background-color:lightgrey;
+	}
+</style>
+</html>

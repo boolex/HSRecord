@@ -12,7 +12,6 @@ C:\prog\HSRecord\HSRecord\HSRecord.Terminal\obj\Debug\HSRecord.Terminal.pdb
 C:\prog\HSRecord\HSRecord\HSRecord.Terminal\bin\Debug\HSRecord.Terminal.exe
 C:\prog\HSRecord\HSRecord\HSRecord.Terminal\bin\Debug\HSRecord.Terminal.pdb
 C:\prog\HSRecord\HSRecord\HSRecord.Terminal\bin\Debug\HSRecord.Core.dll
-C:\prog\HSRecord\HSRecord\HSRecord.Terminal\bin\Debug\Newtonsoft.Json.dll
 C:\prog\HSRecord\HSRecord\HSRecord.Terminal\bin\Debug\HSRecord.Core.pdb
 C:\prog\HSRecord\HSRecord\HSRecord.Terminal\bin\Debug\Newtonsoft.Json.xml
 C:\prog\HSRecord\HSRecord\HSRecord.Terminal\obj\Debug\HSRecord.Terminal.csprojResolveAssemblyReference.cache

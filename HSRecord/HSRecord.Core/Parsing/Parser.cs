@@ -17,6 +17,7 @@
 		private Turn CurrentTurn;
 		private string CurrentPlayer;
 		private int CurrentTurnIndex;
+		private bool isMulliganDone;
 		public Game ParseGame(string fileName)
 		{
 			this.fileName = fileName;
@@ -46,6 +47,8 @@
 			if (this.CurrentTurn != null)
 			{
 				var entity = ParseDraw(this.lines[lineIndex]);
+				if(!isMulliganDone)
+					return lineIndex;
 				this.CurrentTurn.Acts.Add(new DrawCardAct(entity.Card));
 			}
 
@@ -61,13 +64,26 @@
 
 		private void HandleTagChange(Tag tag)
 		{
+			TryHandleMulliganTag(tag);			
 			TryHandleTurnTag(tag);
 			TryHandleStepTag(tag);
 			TryHandleCurrentPlayerTag(tag);
+			
+		}
+
+		private void TryHandleMulliganTag(Tag tag)
+		{
+			if (string.Equals(tag.Name, "MULLIGAN_STATE") &&
+				string.Equals(tag.Value, "DONE"))
+			{
+				this.isMulliganDone = true;
+			}
 		}
 
 		private void TryHandleStepTag(Tag tag)
 		{
+			if(!isMulliganDone)
+				return;
 			if (string.Equals(tag.Name, "STEP") &&
                 string.Equals(tag.Value, "MAIN_READY"))
 			{
@@ -107,6 +123,7 @@
                     @"TRANSITIONING card (\[name=(?<entityname>[\w\s\dа-яА-Я_-]+)\sid=(?<entityid>\d+)\szone=(?<entityzone>\w+)\szonePos=(?<entityzonepos>\d)\scardId=(?<entitycardid>[\w\d_]+)\splayer=(?<entityplayer>\d)\]|\[id=(?<entityid>\d+)\scardId=\stype=INVALID\szone=(?<entityzone>\w*)\szonePos=(?<entityzonepos>\d+)\splayer=(?<entityplayer>\d)\]|(?<entity>.*)) to (?<hand>OPPOSING|FRIENDLY) HAND");
 			var match = cardRegex.Match(line);
 			var entity = new Entity();
+
 			int entityId;
 			if (!string.IsNullOrEmpty(match.Groups["entityid"].Value) &&
                int.TryParse(match.Groups["entityid"].Value, out entityId))
@@ -132,7 +149,8 @@
 			{
 				entity.Name = match.Groups["entity"].Value;
 			}
-
+			if(match.Groups["hand"].Value=="FRIENDLY")
+				Console.WriteLine("{0}:{1}",CurrentTurnIndex, entity.Name);
 			return entity;
 		}
 

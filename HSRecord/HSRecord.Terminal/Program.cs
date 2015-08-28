@@ -1,6 +1,9 @@
 ﻿namespace HSRecord.Terminal
 {
+	using System.IO;
 	using HSRecord.Core.Parsing;
+	using Newtonsoft.Json;
+	
 	class Program
 	{
 		static void Main(string[] args)
@@ -10,14 +13,8 @@
 			//parser.Parse(@"C:\Projects\HSRecord\HSRecord\data\Grim1.txt");
 			var game = parser.ParseGame(filePath);
 
-			foreach(var turn in game.Turns)
-			{
-				foreach(var act in turn.Acts)
-				{
-					System.Console.WriteLine(act.Type);
-				}				
-			}
-			
+			var outputFilePath = @"C:\prog\HSRecord\game.js";
+			File.WriteAllText (outputFilePath, string.Format("var game = {0};",  JsonConvert.SerializeObject(game)));
         }
     }
 }
