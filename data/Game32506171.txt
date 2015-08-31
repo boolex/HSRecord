@@ -17216,7 +17216,7 @@ Total: 92.816315 ms (FindLiveObjects: 3.152007 ms CreateObjectMapping: 3.288712 
 [Power] GameState.DebugPrintPower() -     TAG_CHANGE Entity=boolex tag=LAST_CARD_PLAYED value=21
  
 (Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
-
+TODO
 [Power] GameState.DebugPrintPower() -     ACTION_START Entity=[name=Боевая ярость id=21 zone=HAND zonePos=2 cardId=EX1_392 player=1] SubType=POWER Index=-1 Target=0
  
 (Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)

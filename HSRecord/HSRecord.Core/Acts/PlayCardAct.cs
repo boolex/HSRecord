@@ -6,7 +6,7 @@
     {
         public override ActType Type
         {
-            get { return ActType.Card; }
+            get { return ActType.Play; }
         }
 
         public Card Card { get; set; }

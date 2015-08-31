@@ -1,4 +1,6 @@
-﻿namespace HSRecord.Core.Entities
+﻿using HSRecord.Core.Data;
+
+namespace HSRecord.Core.Entities
 {
     public class Entity
     {
@@ -12,14 +14,7 @@
 
         public Card Card
         {
-            get
-            {
-                return new Card()
-                {
-                    CardIdInGame = this.Id,
-                    Name = this.Name
-                };
-            }
+            get { return CardManager.Get(CardId); }
         }
     }
 }

@@ -3,7 +3,7 @@
 	public enum ActType
 	{
 		EndTurn,
-        Card,
+        Play,
         HeroPower,
         Attack,
 		Draw,
