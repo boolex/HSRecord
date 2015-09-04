@@ -15,3 +15,4 @@ C:\prog\HSRecord\HSRecord\HSRecord.Terminal\bin\Debug\HSRecord.Core.pdb
 C:\prog\HSRecord\HSRecord\HSRecord.Terminal\bin\Debug\Newtonsoft.Json.xml
 C:\prog\HSRecord\HSRecord\HSRecord.Terminal\obj\Debug\HSRecord.Terminal.csprojResolveAssemblyReference.cache
 C:\Projects\HSRecord\HSRecord\HSRecord\HSRecord.Terminal\bin\Debug\Newtonsoft.Json.xml
+C:\prog\HSRecord\HSRecord\HSRecord.Terminal\bin\Debug\Newtonsoft.Json.dll

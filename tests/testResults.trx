@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<TestRun id="2265670b-0487-4fe3-af11-7c68fac5aa74" name="Lex@LEX-PC 2015-08-16 20:24:06" runUser="Lex-PC\Lex" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
-  <TestSettings name="Default Test Settings" id="9126ccec-9c4f-4ad1-82c4-dddb96fc6ae9">
-    <Deployment userDeploymentRoot="C:\prog\HSRecord\tests" useDefaultDeploymentRoot="false" runDeploymentRoot="Lex_LEX-PC 2015-08-16 20_24_06" />
+<TestRun id="14c29bf8-335c-49b5-86a6-769bd65cb450" name="Lex@LEX-PC 2015-09-02 20:45:47" runUser="Lex-PC\Lex" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="353320ec-f881-46f9-b2f2-aa46abe5f223">
+    <Deployment userDeploymentRoot="C:\prog\HSRecord\tests" useDefaultDeploymentRoot="false" runDeploymentRoot="Lex_LEX-PC 2015-09-02 20_45_47" />
     <Execution>
       <TestTypeSpecific />
       <AgentRule name="Execution Agents">
@@ -9,22 +9,274 @@
     </Execution>
     <Properties />
   </TestSettings>
-  <Times creation="2015-08-16T20:24:06.5166136+03:00" queuing="2015-08-16T20:24:09.3787773+03:00" start="2015-08-16T20:24:09.8318032+03:00" finish="2015-08-16T20:24:19.6033621+03:00" />
-  <ResultSummary outcome="Failed">
-    <Counters total="3" executed="3" passed="2" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  <Times creation="2015-09-02T20:45:47.0667909+03:00" queuing="2015-09-02T20:45:47.7213075+03:00" start="2015-09-02T20:45:47.8588078+03:00" finish="2015-09-02T20:45:49.9238312+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="66" executed="66" passed="66" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
   </ResultSummary>
   <TestDefinitions>
-    <UnitTest name="TotalNumberOfTurnsInGrim2ShouldBe19" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="0c8d7eb6-fe75-0116-f6e1-76aae568796f">
-      <Execution id="529f8cc9-ef68-46b0-8bdc-e0f1510c137d" />
-      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.ParserTest, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TotalNumberOfTurnsInGrim2ShouldBe19" />
+    <UnitTest name="Step11Draw4" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="a08fd759-98a5-c9ff-be08-76c24c4c345c">
+      <Execution id="41437fce-62f2-45ef-9572-e5143dfae04f" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step11Draw4" />
     </UnitTest>
-    <UnitTest name="Step1DrawInGrim2ShouldBeWarSong" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="ac1ea863-5bcf-0997-cc36-ed4229c76fce">
-      <Execution id="b1e91ed0-31bf-4e36-ba2b-00592c6c8875" />
-      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.ParserTest, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step1DrawInGrim2ShouldBeWarSong" />
+    <UnitTest name="Step9Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="b9e45b6b-3635-2d72-6648-789d9ba48802">
+      <Execution id="b4a12ea3-49e4-4ae3-bbe2-b11bb8395976" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step9Draws" />
     </UnitTest>
-    <UnitTest name="Step3DrawInGrim2ShouldExist" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="fcbcd70d-7ada-e1d3-75c1-1b358e7eeb27">
-      <Execution id="8b86e184-96df-4629-9462-b0e5114d1946" />
-      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.ParserTest, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step3DrawInGrim2ShouldExist" />
+    <UnitTest name="Step8Attack2" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="706d0cbc-24a0-8198-f6e6-f2802b15d9f2">
+      <Execution id="52acc0be-f1dd-4f6f-8e82-db4b1d421e31" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step8Attack2" />
+    </UnitTest>
+    <UnitTest name="Step10Attacked3" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="79c8e5ae-e448-fe0a-e913-4934fe511251">
+      <Execution id="f200fe5f-5152-4960-a75f-82bfa54dcf13" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step10Attacked3" />
+    </UnitTest>
+    <UnitTest name="Step11Death2" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="9dfe665e-bad3-6aa9-a55e-5f5ddf1c2413">
+      <Execution id="b3b6e01f-54a2-4fb5-8ea2-801fd6071c8d" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step11Death2" />
+    </UnitTest>
+    <UnitTest name="Step3Draw" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="df83b9ee-a4ef-4eb3-6424-91572472e495">
+      <Execution id="b39931f0-7a07-4106-b9b5-4abf109b2a2c" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step3Draw" />
+    </UnitTest>
+    <UnitTest name="Step11Attacked2" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="108f15a5-f569-281c-981a-66efbf55d112">
+      <Execution id="92ec561a-37be-4fc1-82bb-381e6202d778" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step11Attacked2" />
+    </UnitTest>
+    <UnitTest name="Step19Draw" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="b5925866-6acd-cd19-213b-c63a03855260">
+      <Execution id="e5fcd33d-e624-4608-b1f8-97d7b8f7ffbf" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step19Draw" />
+    </UnitTest>
+    <UnitTest name="Step13Draw" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="30d24da8-55b4-3cad-f2cc-2ffd8c0614eb">
+      <Execution id="d0c09bd0-5db6-45eb-8f38-5ce453ce5a1a" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step13Draw" />
+    </UnitTest>
+    <UnitTest name="Step11Draw2" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="ee294ba9-c2f9-a64c-e9c1-2d7b29f27f5e">
+      <Execution id="466a0be6-669c-4a68-917c-7fdf16644691" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step11Draw2" />
+    </UnitTest>
+    <UnitTest name="Step15Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="007f115c-4892-3d05-cdb5-681c6efdd2c5">
+      <Execution id="b8046e16-3ece-4331-88d5-514fb31f04f2" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step15Draws" />
+    </UnitTest>
+    <UnitTest name="Step2Play" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="a1bc02ad-cea8-ffbc-dbaa-b34b30f5f866">
+      <Execution id="da795c38-8e9c-4528-9c61-99e69859cb4b" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step2Play" />
+    </UnitTest>
+    <UnitTest name="Step7Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="8d5ebee0-bf74-03e2-6890-c4c170d1c7e0">
+      <Execution id="10e11292-86e1-4f2e-a2f9-a9601652c725" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step7Draws" />
+    </UnitTest>
+    <UnitTest name="TotalNumberOfTurnsShouldBe19" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="87595651-6bc1-54e4-d7bf-ceb9f7086e86">
+      <Execution id="ac1596e7-9729-4772-85cc-0717c680d5bd" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TotalNumberOfTurnsShouldBe19" />
+    </UnitTest>
+    <UnitTest name="Step15Draw" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="5630edeb-23a6-2947-5d85-bf6798e88fba">
+      <Execution id="bf600700-5bfa-43c3-91fe-266ef7a19f81" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step15Draw" />
+    </UnitTest>
+    <UnitTest name="Step10Play" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="fcf1dbfe-77eb-d7be-6241-5a67cd9dc82d">
+      <Execution id="3dfd3706-eedd-47b9-94b5-42dc02674598" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step10Play" />
+    </UnitTest>
+    <UnitTest name="Step10Attack1" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="766d5122-5ea7-2772-abdd-a557b5a52f8a">
+      <Execution id="acb5c6e1-b8d0-41bf-b714-a466183102d3" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step10Attack1" />
+    </UnitTest>
+    <UnitTest name="Step9Draw" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="60de6676-51d2-ea01-7714-b2b3b93bf969">
+      <Execution id="50fdf956-b192-44bc-b169-cf3899bf4208" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step9Draw" />
+    </UnitTest>
+    <UnitTest name="Step10Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="37d3aba1-c574-fb8d-fcac-330b01916105">
+      <Execution id="aa7d10eb-6494-4b2c-ac58-d6cfd99c4e1e" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step10Draws" />
+    </UnitTest>
+    <UnitTest name="Step11Draw3" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="1be7b5bb-567d-d933-6fda-8faca5ced34c">
+      <Execution id="72c0eb4d-fa49-421c-8bb9-acc873d4d4fc" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step11Draw3" />
+    </UnitTest>
+    <UnitTest name="Step1Draw" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="0bffd24b-23ce-eec2-06e9-b359a75fbd5f">
+      <Execution id="dff3151d-a5d4-46a3-a567-1ca7ed25d963" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step1Draw" />
+    </UnitTest>
+    <UnitTest name="Step6Play2" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="33bd0cf6-2bee-de0b-e455-b816451af2e9">
+      <Execution id="5c216b51-24fb-415b-af99-26c7515a25c9" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step6Play2" />
+    </UnitTest>
+    <UnitTest name="Step10Attack2" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="340990d3-10fe-259c-b3db-87594eedc9b2">
+      <Execution id="29af2256-a4d7-465c-8abf-d22f8ab9d525" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step10Attack2" />
+    </UnitTest>
+    <UnitTest name="Step11Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="6095410c-ac2d-6ac1-5313-17d2ff072273">
+      <Execution id="e405f93e-0e3b-4e6d-9007-83594e4270be" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step11Draws" />
+    </UnitTest>
+    <UnitTest name="Step17Draw" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="1181f89c-35f6-3d26-7c96-6fc2cd175f0f">
+      <Execution id="f6811a7c-a948-492c-aaad-f558e27d87d1" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step17Draw" />
+    </UnitTest>
+    <UnitTest name="Step5Play" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="8c767db9-712c-5bd5-5db0-b83896d05b71">
+      <Execution id="df0ef1b3-f034-47a6-8aed-aacf268900d2" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step5Play" />
+    </UnitTest>
+    <UnitTest name="Step9Play" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="fb326164-feea-e644-b554-18435313b0e0">
+      <Execution id="e36b82ab-e757-4c33-b468-baf7b7508443" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step9Play" />
+    </UnitTest>
+    <UnitTest name="Step10Attack3" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="ddc0cc20-e488-2704-ba5e-494091394d0a">
+      <Execution id="fb30d9b8-3cd7-4dce-980e-6c909bf5eecc" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step10Attack3" />
+    </UnitTest>
+    <UnitTest name="Step12Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="da709d48-a820-3796-85e7-8f592004188e">
+      <Execution id="7bb3c18b-99d2-475c-80f3-012a47da36dd" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step12Draws" />
+    </UnitTest>
+    <UnitTest name="Step14Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="e2e1a93e-bd0c-30e0-d82d-162e51e3c3df">
+      <Execution id="bcc98275-41ca-45ae-b54e-c1da0ce4e8cf" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step14Draws" />
+    </UnitTest>
+    <UnitTest name="Step8Attacked2" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="579d7cd4-190b-47ee-b882-eb217db8f74e">
+      <Execution id="29378fb7-1fd7-4bed-bb83-7e616b68370d" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step8Attacked2" />
+    </UnitTest>
+    <UnitTest name="Step5Draw" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="26759e02-ba8f-08c8-f015-f7682de3c0c8">
+      <Execution id="da902898-a46b-4757-8594-144770d88a26" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step5Draw" />
+    </UnitTest>
+    <UnitTest name="Step16Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="c83522eb-f121-6ef9-98e3-9f337f7d9c18">
+      <Execution id="253198f9-a1af-4221-aa2c-329fb4972add" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step16Draws" />
+    </UnitTest>
+    <UnitTest name="Step5Play2" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="5c63f80a-0025-dbb1-2b98-37a0899156b2">
+      <Execution id="a1cf523d-4165-4883-8a16-bbb3aba70df3" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step5Play2" />
+    </UnitTest>
+    <UnitTest name="Step11Attack1" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="29ab113d-e351-5bec-0dae-0229a9af3c9f">
+      <Execution id="5ecb94ab-8399-4d5e-8081-06e5142ab8a0" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step11Attack1" />
+    </UnitTest>
+    <UnitTest name="Step10Attacked1" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="5dbc584f-3ad1-ef70-edd7-eb12fd60359b">
+      <Execution id="3ac79060-47b8-4b18-85ba-57e7c2b17ec5" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step10Attacked1" />
+    </UnitTest>
+    <UnitTest name="Step7Attacked1" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="3050124b-5f45-35e7-4b3a-b58b9cba4b21">
+      <Execution id="bee09b73-071f-4737-9f9d-c2735ce29d5d" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step7Attacked1" />
+    </UnitTest>
+    <UnitTest name="Step17Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="382a631b-3b0b-8740-3177-f51b1352a384">
+      <Execution id="ff399878-af25-4dc3-83c6-0f670db64b24" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step17Draws" />
+    </UnitTest>
+    <UnitTest name="Step5Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="264bd29b-d2e0-ac8e-16cf-e26bf4ba315c">
+      <Execution id="109b7eb4-e8c2-4c63-b93a-bef9dc7f8223" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step5Draws" />
+    </UnitTest>
+    <UnitTest name="Step11Death1" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="26d10eb3-1e6e-735e-6bf6-4adf3c093ec4">
+      <Execution id="8a91fb5a-e886-403a-a89d-97658762ebd9" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step11Death1" />
+    </UnitTest>
+    <UnitTest name="Step7Attack1" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="b08e77c4-a4e8-5809-118a-855834372563">
+      <Execution id="7e9d0617-a03b-4ca1-85a8-1b8112f73580" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step7Attack1" />
+    </UnitTest>
+    <UnitTest name="Step7Draw" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="699a599a-5bbb-76a3-e492-9aedc5a73e91">
+      <Execution id="513d5af7-091d-4473-91ed-37c944b24f78" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step7Draw" />
+    </UnitTest>
+    <UnitTest name="Step13Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="10ca1c78-4984-8e4c-4746-ed00ec13f74a">
+      <Execution id="86d15e75-2635-4cdc-9822-a9fa874f91f4" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step13Draws" />
+    </UnitTest>
+    <UnitTest name="Step4Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="f145855d-72ef-e9ae-87df-6644b56bff05">
+      <Execution id="7baed7d2-683f-46df-ab43-d7c020735fd0" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step4Draws" />
+    </UnitTest>
+    <UnitTest name="Step8Attack1" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="d62ad21f-9163-50a2-08ba-01ac4d1c8c5f">
+      <Execution id="98a7d077-517a-4711-9183-f6fb134f6a6e" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step8Attack1" />
+    </UnitTest>
+    <UnitTest name="Step11Attacked1" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="711f56a3-2c70-e3cd-5153-959e370b3a2e">
+      <Execution id="c40655d8-0e96-40e1-a80d-57970540b18e" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step11Attacked1" />
+    </UnitTest>
+    <UnitTest name="Step11Attack2" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="bf4c789d-06ed-1ea5-7f88-ad6bb92e091e">
+      <Execution id="f134db28-9b90-4f74-a5d0-02d242b11006" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step11Attack2" />
+    </UnitTest>
+    <UnitTest name="Step6Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="93f1d547-e37d-9d18-536d-6f30be9c971b">
+      <Execution id="7bd07092-5199-4edd-904a-4f16fbddc227" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step6Draws" />
+    </UnitTest>
+    <UnitTest name="Step11Play" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="c6b0ee09-f436-1f96-d02d-200a09e4291a">
+      <Execution id="f8de23a7-0c54-4741-8934-d6eac8b5112f" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step11Play" />
+    </UnitTest>
+    <UnitTest name="Step6Play3" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="a3567bd3-86db-96cf-b6af-1b34214dea95">
+      <Execution id="f02fd709-8cb0-4e03-95c9-92712b2519c0" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step6Play3" />
+    </UnitTest>
+    <UnitTest name="Step1Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="8a88b597-e0eb-7c5b-d5b4-c677ed5dc3e4">
+      <Execution id="ba477fbc-59d1-41af-a0f0-145a676dfdc8" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step1Draws" />
+    </UnitTest>
+    <UnitTest name="Step6Play1" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="cfa286b5-4f77-7f98-1831-7e1599005da2">
+      <Execution id="566cc917-092a-4a63-9bca-81c55c0bed1c" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step6Play1" />
+    </UnitTest>
+    <UnitTest name="Step11Death3" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="f2918768-1d5d-c333-0dba-595800707319">
+      <Execution id="931454dc-a250-4a9a-ac5e-ac07ef6c93fe" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step11Death3" />
+    </UnitTest>
+    <UnitTest name="Step11Draw" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="37f16d99-305c-8e70-eb91-a025ccc2c7b7">
+      <Execution id="cfeea316-87f5-443d-90ae-205658d6aa5a" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step11Draw" />
+    </UnitTest>
+    <UnitTest name="Step10Attacked2" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="3b3d262b-b16d-0be3-836e-98ce7ac82e95">
+      <Execution id="ced73f35-a851-418d-bf27-8181cb3234fc" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step10Attacked2" />
+    </UnitTest>
+    <UnitTest name="Step7Play" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="e07a9fb8-11cc-5ae2-2d77-7d5ac2380c6e">
+      <Execution id="2b6cb289-2948-47e5-9bd4-d60aea4e67dd" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step7Play" />
+    </UnitTest>
+    <UnitTest name="Step3Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="9350d1d7-687a-e811-3917-f7a6995cc1a6">
+      <Execution id="e52f6a8b-2147-4964-8008-9d54a33cf97d" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step3Draws" />
+    </UnitTest>
+    <UnitTest name="Step2Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="444c47bb-e90a-d588-fe52-2f7a6db80a79">
+      <Execution id="a9f34a4d-dfc4-44b9-895a-5558955ca880" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step2Draws" />
+    </UnitTest>
+    <UnitTest name="Step19Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="6eba079c-e717-df94-bab9-9c83a05db33a">
+      <Execution id="035b3237-b44e-4faf-8d6f-b67102d22eb3" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step19Draws" />
+    </UnitTest>
+    <UnitTest name="Step9Draw2" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="9fa57097-eb01-cc39-778e-0ba92a4e0c8e">
+      <Execution id="d3d60b45-70cf-4c90-af76-84d321da0c2c" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step9Draw2" />
+    </UnitTest>
+    <UnitTest name="Step8Play" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="45261fa7-34cc-5776-2efa-fd926c451ae8">
+      <Execution id="065716a8-42e3-492b-a5d8-9fb9900cc15a" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step8Play" />
+    </UnitTest>
+    <UnitTest name="Step8Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="faab8b2d-fe47-d986-f085-37778af83a4e">
+      <Execution id="07cc1cc7-4b64-4809-9727-61c964be908f" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step8Draws" />
+    </UnitTest>
+    <UnitTest name="Step4Play" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="7cbedcba-59de-901c-282c-2852956e776e">
+      <Execution id="6e67780d-d719-4e34-9582-4be4c70d2520" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step4Play" />
+    </UnitTest>
+    <UnitTest name="Step8Attacked1" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="09fe4bbd-72a3-3ba0-1b2b-e32ef6d2bb57">
+      <Execution id="8bb1b74d-4391-48d3-8ae6-9c0a9b131b4b" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step8Attacked1" />
+    </UnitTest>
+    <UnitTest name="Step11Draw5" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="f48fa715-1158-ae4b-4395-b6ce394d9e94">
+      <Execution id="7f145d94-19bc-46ad-8b1a-85482632ab2b" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step11Draw5" />
+    </UnitTest>
+    <UnitTest name="Step18Draws" storage="c:\prog\hsrecord\hsrecord\hsrecord.unittests\bin\debug\hsrecord.unittests.dll" id="965504f5-14fc-5b1f-a3a7-cbb57ab3ee37">
+      <Execution id="cce5a47d-acf8-4d80-b8b0-920a3342b67c" />
+      <TestMethod codeBase="C:/prog/HSRecord/HSRecord/HSRecord.UnitTests/bin/Debug/HSRecord.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HSRecord.UnitTests.Game_32506171_Tests, HSRecord.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Step18Draws" />
     </UnitTest>
   </TestDefinitions>
   <TestLists>
@@ -32,23 +284,210 @@
     <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
   </TestLists>
   <TestEntries>
-    <TestEntry testId="ac1ea863-5bcf-0997-cc36-ed4229c76fce" executionId="b1e91ed0-31bf-4e36-ba2b-00592c6c8875" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
-    <TestEntry testId="fcbcd70d-7ada-e1d3-75c1-1b358e7eeb27" executionId="8b86e184-96df-4629-9462-b0e5114d1946" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
-    <TestEntry testId="0c8d7eb6-fe75-0116-f6e1-76aae568796f" executionId="529f8cc9-ef68-46b0-8bdc-e0f1510c137d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="766d5122-5ea7-2772-abdd-a557b5a52f8a" executionId="acb5c6e1-b8d0-41bf-b714-a466183102d3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="340990d3-10fe-259c-b3db-87594eedc9b2" executionId="29af2256-a4d7-465c-8abf-d22f8ab9d525" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ddc0cc20-e488-2704-ba5e-494091394d0a" executionId="fb30d9b8-3cd7-4dce-980e-6c909bf5eecc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5dbc584f-3ad1-ef70-edd7-eb12fd60359b" executionId="3ac79060-47b8-4b18-85ba-57e7c2b17ec5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3b3d262b-b16d-0be3-836e-98ce7ac82e95" executionId="ced73f35-a851-418d-bf27-8181cb3234fc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="79c8e5ae-e448-fe0a-e913-4934fe511251" executionId="f200fe5f-5152-4960-a75f-82bfa54dcf13" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37d3aba1-c574-fb8d-fcac-330b01916105" executionId="aa7d10eb-6494-4b2c-ac58-d6cfd99c4e1e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fcf1dbfe-77eb-d7be-6241-5a67cd9dc82d" executionId="3dfd3706-eedd-47b9-94b5-42dc02674598" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="29ab113d-e351-5bec-0dae-0229a9af3c9f" executionId="5ecb94ab-8399-4d5e-8081-06e5142ab8a0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bf4c789d-06ed-1ea5-7f88-ad6bb92e091e" executionId="f134db28-9b90-4f74-a5d0-02d242b11006" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="711f56a3-2c70-e3cd-5153-959e370b3a2e" executionId="c40655d8-0e96-40e1-a80d-57970540b18e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="108f15a5-f569-281c-981a-66efbf55d112" executionId="92ec561a-37be-4fc1-82bb-381e6202d778" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="26d10eb3-1e6e-735e-6bf6-4adf3c093ec4" executionId="8a91fb5a-e886-403a-a89d-97658762ebd9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9dfe665e-bad3-6aa9-a55e-5f5ddf1c2413" executionId="b3b6e01f-54a2-4fb5-8ea2-801fd6071c8d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f2918768-1d5d-c333-0dba-595800707319" executionId="931454dc-a250-4a9a-ac5e-ac07ef6c93fe" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37f16d99-305c-8e70-eb91-a025ccc2c7b7" executionId="cfeea316-87f5-443d-90ae-205658d6aa5a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ee294ba9-c2f9-a64c-e9c1-2d7b29f27f5e" executionId="466a0be6-669c-4a68-917c-7fdf16644691" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1be7b5bb-567d-d933-6fda-8faca5ced34c" executionId="72c0eb4d-fa49-421c-8bb9-acc873d4d4fc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a08fd759-98a5-c9ff-be08-76c24c4c345c" executionId="41437fce-62f2-45ef-9572-e5143dfae04f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f48fa715-1158-ae4b-4395-b6ce394d9e94" executionId="7f145d94-19bc-46ad-8b1a-85482632ab2b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6095410c-ac2d-6ac1-5313-17d2ff072273" executionId="e405f93e-0e3b-4e6d-9007-83594e4270be" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c6b0ee09-f436-1f96-d02d-200a09e4291a" executionId="f8de23a7-0c54-4741-8934-d6eac8b5112f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="da709d48-a820-3796-85e7-8f592004188e" executionId="7bb3c18b-99d2-475c-80f3-012a47da36dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="30d24da8-55b4-3cad-f2cc-2ffd8c0614eb" executionId="d0c09bd0-5db6-45eb-8f38-5ce453ce5a1a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="10ca1c78-4984-8e4c-4746-ed00ec13f74a" executionId="86d15e75-2635-4cdc-9822-a9fa874f91f4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e2e1a93e-bd0c-30e0-d82d-162e51e3c3df" executionId="bcc98275-41ca-45ae-b54e-c1da0ce4e8cf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5630edeb-23a6-2947-5d85-bf6798e88fba" executionId="bf600700-5bfa-43c3-91fe-266ef7a19f81" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="007f115c-4892-3d05-cdb5-681c6efdd2c5" executionId="b8046e16-3ece-4331-88d5-514fb31f04f2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c83522eb-f121-6ef9-98e3-9f337f7d9c18" executionId="253198f9-a1af-4221-aa2c-329fb4972add" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1181f89c-35f6-3d26-7c96-6fc2cd175f0f" executionId="f6811a7c-a948-492c-aaad-f558e27d87d1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="382a631b-3b0b-8740-3177-f51b1352a384" executionId="ff399878-af25-4dc3-83c6-0f670db64b24" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="965504f5-14fc-5b1f-a3a7-cbb57ab3ee37" executionId="cce5a47d-acf8-4d80-b8b0-920a3342b67c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b5925866-6acd-cd19-213b-c63a03855260" executionId="e5fcd33d-e624-4608-b1f8-97d7b8f7ffbf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6eba079c-e717-df94-bab9-9c83a05db33a" executionId="035b3237-b44e-4faf-8d6f-b67102d22eb3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0bffd24b-23ce-eec2-06e9-b359a75fbd5f" executionId="dff3151d-a5d4-46a3-a567-1ca7ed25d963" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8a88b597-e0eb-7c5b-d5b4-c677ed5dc3e4" executionId="ba477fbc-59d1-41af-a0f0-145a676dfdc8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="444c47bb-e90a-d588-fe52-2f7a6db80a79" executionId="a9f34a4d-dfc4-44b9-895a-5558955ca880" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a1bc02ad-cea8-ffbc-dbaa-b34b30f5f866" executionId="da795c38-8e9c-4528-9c61-99e69859cb4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="df83b9ee-a4ef-4eb3-6424-91572472e495" executionId="b39931f0-7a07-4106-b9b5-4abf109b2a2c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9350d1d7-687a-e811-3917-f7a6995cc1a6" executionId="e52f6a8b-2147-4964-8008-9d54a33cf97d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f145855d-72ef-e9ae-87df-6644b56bff05" executionId="7baed7d2-683f-46df-ab43-d7c020735fd0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7cbedcba-59de-901c-282c-2852956e776e" executionId="6e67780d-d719-4e34-9582-4be4c70d2520" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="26759e02-ba8f-08c8-f015-f7682de3c0c8" executionId="da902898-a46b-4757-8594-144770d88a26" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="264bd29b-d2e0-ac8e-16cf-e26bf4ba315c" executionId="109b7eb4-e8c2-4c63-b93a-bef9dc7f8223" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8c767db9-712c-5bd5-5db0-b83896d05b71" executionId="df0ef1b3-f034-47a6-8aed-aacf268900d2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5c63f80a-0025-dbb1-2b98-37a0899156b2" executionId="a1cf523d-4165-4883-8a16-bbb3aba70df3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="93f1d547-e37d-9d18-536d-6f30be9c971b" executionId="7bd07092-5199-4edd-904a-4f16fbddc227" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cfa286b5-4f77-7f98-1831-7e1599005da2" executionId="566cc917-092a-4a63-9bca-81c55c0bed1c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33bd0cf6-2bee-de0b-e455-b816451af2e9" executionId="5c216b51-24fb-415b-af99-26c7515a25c9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a3567bd3-86db-96cf-b6af-1b34214dea95" executionId="f02fd709-8cb0-4e03-95c9-92712b2519c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b08e77c4-a4e8-5809-118a-855834372563" executionId="7e9d0617-a03b-4ca1-85a8-1b8112f73580" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3050124b-5f45-35e7-4b3a-b58b9cba4b21" executionId="bee09b73-071f-4737-9f9d-c2735ce29d5d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="699a599a-5bbb-76a3-e492-9aedc5a73e91" executionId="513d5af7-091d-4473-91ed-37c944b24f78" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8d5ebee0-bf74-03e2-6890-c4c170d1c7e0" executionId="10e11292-86e1-4f2e-a2f9-a9601652c725" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e07a9fb8-11cc-5ae2-2d77-7d5ac2380c6e" executionId="2b6cb289-2948-47e5-9bd4-d60aea4e67dd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d62ad21f-9163-50a2-08ba-01ac4d1c8c5f" executionId="98a7d077-517a-4711-9183-f6fb134f6a6e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="706d0cbc-24a0-8198-f6e6-f2802b15d9f2" executionId="52acc0be-f1dd-4f6f-8e82-db4b1d421e31" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="09fe4bbd-72a3-3ba0-1b2b-e32ef6d2bb57" executionId="8bb1b74d-4391-48d3-8ae6-9c0a9b131b4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="579d7cd4-190b-47ee-b882-eb217db8f74e" executionId="29378fb7-1fd7-4bed-bb83-7e616b68370d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="faab8b2d-fe47-d986-f085-37778af83a4e" executionId="07cc1cc7-4b64-4809-9727-61c964be908f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="45261fa7-34cc-5776-2efa-fd926c451ae8" executionId="065716a8-42e3-492b-a5d8-9fb9900cc15a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="60de6676-51d2-ea01-7714-b2b3b93bf969" executionId="50fdf956-b192-44bc-b169-cf3899bf4208" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9fa57097-eb01-cc39-778e-0ba92a4e0c8e" executionId="d3d60b45-70cf-4c90-af76-84d321da0c2c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b9e45b6b-3635-2d72-6648-789d9ba48802" executionId="b4a12ea3-49e4-4ae3-bbe2-b11bb8395976" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fb326164-feea-e644-b554-18435313b0e0" executionId="e36b82ab-e757-4c33-b468-baf7b7508443" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="87595651-6bc1-54e4-d7bf-ceb9f7086e86" executionId="ac1596e7-9729-4772-85cc-0717c680d5bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
   </TestEntries>
   <Results>
-    <UnitTestResult executionId="b1e91ed0-31bf-4e36-ba2b-00592c6c8875" testId="ac1ea863-5bcf-0997-cc36-ed4229c76fce" testName="Step1DrawInGrim2ShouldBeWarSong" computerName="LEX-PC" duration="00:00:03.2716793" startTime="2015-08-16T20:24:09.9348091+03:00" endTime="2015-08-16T20:24:14.1770517+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1e91ed0-31bf-4e36-ba2b-00592c6c8875">
+    <UnitTestResult executionId="acb5c6e1-b8d0-41bf-b714-a466183102d3" testId="766d5122-5ea7-2772-abdd-a557b5a52f8a" testName="Step10Attack1" computerName="LEX-PC" duration="00:00:00.0228267" startTime="2015-09-02T20:45:47.9113079+03:00" endTime="2015-09-02T20:45:49.0798142+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="acb5c6e1-b8d0-41bf-b714-a466183102d3">
       <Output>
-        <ErrorInfo>
-          <Message>Assert.AreEqual failed. Expected:&lt;Командир песни войны&gt;. Actual:&lt;(null)&gt;. </Message>
-          <StackTrace>   at HSRecord.UnitTests.ParserTest.Step1DrawInGrim2ShouldBeWarSong() in c:\prog\HSRecord\HSRecord\HSRecord.UnitTests\ParserTest.cs:line 43
-</StackTrace>
-        </ErrorInfo>
+        <StdOut>GVG_051</StdOut>
+        <DebugTrace>GVG_051
+</DebugTrace>
       </Output>
     </UnitTestResult>
-    <UnitTestResult executionId="8b86e184-96df-4629-9462-b0e5114d1946" testId="fcbcd70d-7ada-e1d3-75c1-1b358e7eeb27" testName="Step3DrawInGrim2ShouldExist" computerName="LEX-PC" duration="00:00:01.9436925" startTime="2015-08-16T20:24:14.1930527+03:00" endTime="2015-08-16T20:24:16.1441643+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8b86e184-96df-4629-9462-b0e5114d1946">
+    <UnitTestResult executionId="29af2256-a4d7-465c-8abf-d22f8ab9d525" testId="340990d3-10fe-259c-b3db-87594eedc9b2" testName="Step10Attack2" computerName="LEX-PC" duration="00:00:00.0246445" startTime="2015-09-02T20:45:49.0828144+03:00" endTime="2015-09-02T20:45:49.1408177+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="29af2256-a4d7-465c-8abf-d22f8ab9d525">
     </UnitTestResult>
-    <UnitTestResult executionId="529f8cc9-ef68-46b0-8bdc-e0f1510c137d" testId="0c8d7eb6-fe75-0116-f6e1-76aae568796f" testName="TotalNumberOfTurnsInGrim2ShouldBe19" computerName="LEX-PC" duration="00:00:01.5079155" startTime="2015-08-16T20:24:16.1471644+03:00" endTime="2015-08-16T20:24:17.6592509+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="529f8cc9-ef68-46b0-8bdc-e0f1510c137d">
+    <UnitTestResult executionId="fb30d9b8-3cd7-4dce-980e-6c909bf5eecc" testId="ddc0cc20-e488-2704-ba5e-494091394d0a" testName="Step10Attack3" computerName="LEX-PC" duration="00:00:00.0002265" startTime="2015-09-02T20:45:49.1418177+03:00" endTime="2015-09-02T20:45:49.1558185+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fb30d9b8-3cd7-4dce-980e-6c909bf5eecc">
+    </UnitTestResult>
+    <UnitTestResult executionId="3ac79060-47b8-4b18-85ba-57e7c2b17ec5" testId="5dbc584f-3ad1-ef70-edd7-eb12fd60359b" testName="Step10Attacked1" computerName="LEX-PC" duration="00:00:00.0010719" startTime="2015-09-02T20:45:49.1568186+03:00" endTime="2015-09-02T20:45:49.1708194+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3ac79060-47b8-4b18-85ba-57e7c2b17ec5">
+    </UnitTestResult>
+    <UnitTestResult executionId="ced73f35-a851-418d-bf27-8181cb3234fc" testId="3b3d262b-b16d-0be3-836e-98ce7ac82e95" testName="Step10Attacked2" computerName="LEX-PC" duration="00:00:00.0007024" startTime="2015-09-02T20:45:49.1728195+03:00" endTime="2015-09-02T20:45:49.1768197+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ced73f35-a851-418d-bf27-8181cb3234fc">
+    </UnitTestResult>
+    <UnitTestResult executionId="f200fe5f-5152-4960-a75f-82bfa54dcf13" testId="79c8e5ae-e448-fe0a-e913-4934fe511251" testName="Step10Attacked3" computerName="LEX-PC" duration="00:00:00.0002068" startTime="2015-09-02T20:45:49.1778198+03:00" endTime="2015-09-02T20:45:49.1808200+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f200fe5f-5152-4960-a75f-82bfa54dcf13">
+    </UnitTestResult>
+    <UnitTestResult executionId="aa7d10eb-6494-4b2c-ac58-d6cfd99c4e1e" testId="37d3aba1-c574-fb8d-fcac-330b01916105" testName="Step10Draws" computerName="LEX-PC" duration="00:00:00.0014225" startTime="2015-09-02T20:45:49.1858203+03:00" endTime="2015-09-02T20:45:49.1908205+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aa7d10eb-6494-4b2c-ac58-d6cfd99c4e1e">
+    </UnitTestResult>
+    <UnitTestResult executionId="3dfd3706-eedd-47b9-94b5-42dc02674598" testId="fcf1dbfe-77eb-d7be-6241-5a67cd9dc82d" testName="Step10Play" computerName="LEX-PC" duration="00:00:00.0009068" startTime="2015-09-02T20:45:49.1918206+03:00" endTime="2015-09-02T20:45:49.1958208+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3dfd3706-eedd-47b9-94b5-42dc02674598">
+    </UnitTestResult>
+    <UnitTestResult executionId="5ecb94ab-8399-4d5e-8081-06e5142ab8a0" testId="29ab113d-e351-5bec-0dae-0229a9af3c9f" testName="Step11Attack1" computerName="LEX-PC" duration="00:00:00.0003207" startTime="2015-09-02T20:45:49.1978209+03:00" endTime="2015-09-02T20:45:49.1978209+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5ecb94ab-8399-4d5e-8081-06e5142ab8a0">
+    </UnitTestResult>
+    <UnitTestResult executionId="f134db28-9b90-4f74-a5d0-02d242b11006" testId="bf4c789d-06ed-1ea5-7f88-ad6bb92e091e" testName="Step11Attack2" computerName="LEX-PC" duration="00:00:00.0010129" startTime="2015-09-02T20:45:49.1978209+03:00" endTime="2015-09-02T20:45:49.2178210+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f134db28-9b90-4f74-a5d0-02d242b11006">
+    </UnitTestResult>
+    <UnitTestResult executionId="c40655d8-0e96-40e1-a80d-57970540b18e" testId="711f56a3-2c70-e3cd-5153-959e370b3a2e" testName="Step11Attacked1" computerName="LEX-PC" duration="00:00:00.0015859" startTime="2015-09-02T20:45:49.2178210+03:00" endTime="2015-09-02T20:45:49.2278210+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c40655d8-0e96-40e1-a80d-57970540b18e">
+    </UnitTestResult>
+    <UnitTestResult executionId="92ec561a-37be-4fc1-82bb-381e6202d778" testId="108f15a5-f569-281c-981a-66efbf55d112" testName="Step11Attacked2" computerName="LEX-PC" duration="00:00:00.0002469" startTime="2015-09-02T20:45:49.2378210+03:00" endTime="2015-09-02T20:45:49.2378210+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="92ec561a-37be-4fc1-82bb-381e6202d778">
+    </UnitTestResult>
+    <UnitTestResult executionId="8a91fb5a-e886-403a-a89d-97658762ebd9" testId="26d10eb3-1e6e-735e-6bf6-4adf3c093ec4" testName="Step11Death1" computerName="LEX-PC" duration="00:00:00.0074353" startTime="2015-09-02T20:45:49.2538214+03:00" endTime="2015-09-02T20:45:49.2778227+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8a91fb5a-e886-403a-a89d-97658762ebd9">
+    </UnitTestResult>
+    <UnitTestResult executionId="b3b6e01f-54a2-4fb5-8ea2-801fd6071c8d" testId="9dfe665e-bad3-6aa9-a55e-5f5ddf1c2413" testName="Step11Death2" computerName="LEX-PC" duration="00:00:00.0002428" startTime="2015-09-02T20:45:49.2788228+03:00" endTime="2015-09-02T20:45:49.2838231+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b3b6e01f-54a2-4fb5-8ea2-801fd6071c8d">
+    </UnitTestResult>
+    <UnitTestResult executionId="931454dc-a250-4a9a-ac5e-ac07ef6c93fe" testId="f2918768-1d5d-c333-0dba-595800707319" testName="Step11Death3" computerName="LEX-PC" duration="00:00:00.0002154" startTime="2015-09-02T20:45:49.2908235+03:00" endTime="2015-09-02T20:45:49.2968238+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="931454dc-a250-4a9a-ac5e-ac07ef6c93fe">
+    </UnitTestResult>
+    <UnitTestResult executionId="cfeea316-87f5-443d-90ae-205658d6aa5a" testId="37f16d99-305c-8e70-eb91-a025ccc2c7b7" testName="Step11Draw" computerName="LEX-PC" duration="00:00:00.0009437" startTime="2015-09-02T20:45:49.2988239+03:00" endTime="2015-09-02T20:45:49.3073241+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cfeea316-87f5-443d-90ae-205658d6aa5a">
+    </UnitTestResult>
+    <UnitTestResult executionId="466a0be6-669c-4a68-917c-7fdf16644691" testId="ee294ba9-c2f9-a64c-e9c1-2d7b29f27f5e" testName="Step11Draw2" computerName="LEX-PC" duration="00:00:00.0002392" startTime="2015-09-02T20:45:49.3073241+03:00" endTime="2015-09-02T20:45:49.3073241+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="466a0be6-669c-4a68-917c-7fdf16644691">
+    </UnitTestResult>
+    <UnitTestResult executionId="72c0eb4d-fa49-421c-8bb9-acc873d4d4fc" testId="1be7b5bb-567d-d933-6fda-8faca5ced34c" testName="Step11Draw3" computerName="LEX-PC" duration="00:00:00.0025001" startTime="2015-09-02T20:45:49.3073241+03:00" endTime="2015-09-02T20:45:49.3173241+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="72c0eb4d-fa49-421c-8bb9-acc873d4d4fc">
+    </UnitTestResult>
+    <UnitTestResult executionId="41437fce-62f2-45ef-9572-e5143dfae04f" testId="a08fd759-98a5-c9ff-be08-76c24c4c345c" testName="Step11Draw4" computerName="LEX-PC" duration="00:00:00.0002334" startTime="2015-09-02T20:45:49.3173241+03:00" endTime="2015-09-02T20:45:49.3273241+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="41437fce-62f2-45ef-9572-e5143dfae04f">
+    </UnitTestResult>
+    <UnitTestResult executionId="7f145d94-19bc-46ad-8b1a-85482632ab2b" testId="f48fa715-1158-ae4b-4395-b6ce394d9e94" testName="Step11Draw5" computerName="LEX-PC" duration="00:00:00.0002047" startTime="2015-09-02T20:45:49.3273241+03:00" endTime="2015-09-02T20:45:49.3273241+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7f145d94-19bc-46ad-8b1a-85482632ab2b">
+    </UnitTestResult>
+    <UnitTestResult executionId="e405f93e-0e3b-4e6d-9007-83594e4270be" testId="6095410c-ac2d-6ac1-5313-17d2ff072273" testName="Step11Draws" computerName="LEX-PC" duration="00:00:00.0042417" startTime="2015-09-02T20:45:49.3373242+03:00" endTime="2015-09-02T20:45:49.3473242+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e405f93e-0e3b-4e6d-9007-83594e4270be">
+    </UnitTestResult>
+    <UnitTestResult executionId="f8de23a7-0c54-4741-8934-d6eac8b5112f" testId="c6b0ee09-f436-1f96-d02d-200a09e4291a" testName="Step11Play" computerName="LEX-PC" duration="00:00:00.0002265" startTime="2015-09-02T20:45:49.3473242+03:00" endTime="2015-09-02T20:45:49.3573242+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f8de23a7-0c54-4741-8934-d6eac8b5112f">
+    </UnitTestResult>
+    <UnitTestResult executionId="7bb3c18b-99d2-475c-80f3-012a47da36dd" testId="da709d48-a820-3796-85e7-8f592004188e" testName="Step12Draws" computerName="LEX-PC" duration="00:00:00.0002203" startTime="2015-09-02T20:45:49.3598242+03:00" endTime="2015-09-02T20:45:49.3703247+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7bb3c18b-99d2-475c-80f3-012a47da36dd">
+    </UnitTestResult>
+    <UnitTestResult executionId="d0c09bd0-5db6-45eb-8f38-5ce453ce5a1a" testId="30d24da8-55b4-3cad-f2cc-2ffd8c0614eb" testName="Step13Draw" computerName="LEX-PC" duration="00:00:00.0012259" startTime="2015-09-02T20:45:49.3833255+03:00" endTime="2015-09-02T20:45:49.3883257+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d0c09bd0-5db6-45eb-8f38-5ce453ce5a1a">
+    </UnitTestResult>
+    <UnitTestResult executionId="86d15e75-2635-4cdc-9822-a9fa874f91f4" testId="10ca1c78-4984-8e4c-4746-ed00ec13f74a" testName="Step13Draws" computerName="LEX-PC" duration="00:00:00.0002764" startTime="2015-09-02T20:45:49.3893258+03:00" endTime="2015-09-02T20:45:49.3943261+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="86d15e75-2635-4cdc-9822-a9fa874f91f4">
+    </UnitTestResult>
+    <UnitTestResult executionId="bcc98275-41ca-45ae-b54e-c1da0ce4e8cf" testId="e2e1a93e-bd0c-30e0-d82d-162e51e3c3df" testName="Step14Draws" computerName="LEX-PC" duration="00:00:00.0002023" startTime="2015-09-02T20:45:49.4003264+03:00" endTime="2015-09-02T20:45:49.4033266+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bcc98275-41ca-45ae-b54e-c1da0ce4e8cf">
+    </UnitTestResult>
+    <UnitTestResult executionId="bf600700-5bfa-43c3-91fe-266ef7a19f81" testId="5630edeb-23a6-2947-5d85-bf6798e88fba" testName="Step15Draw" computerName="LEX-PC" duration="00:00:00.0002035" startTime="2015-09-02T20:45:49.4043267+03:00" endTime="2015-09-02T20:45:49.4043267+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bf600700-5bfa-43c3-91fe-266ef7a19f81">
+    </UnitTestResult>
+    <UnitTestResult executionId="b8046e16-3ece-4331-88d5-514fb31f04f2" testId="007f115c-4892-3d05-cdb5-681c6efdd2c5" testName="Step15Draws" computerName="LEX-PC" duration="00:00:00.0002023" startTime="2015-09-02T20:45:49.4043267+03:00" endTime="2015-09-02T20:45:49.4143267+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b8046e16-3ece-4331-88d5-514fb31f04f2">
+    </UnitTestResult>
+    <UnitTestResult executionId="253198f9-a1af-4221-aa2c-329fb4972add" testId="c83522eb-f121-6ef9-98e3-9f337f7d9c18" testName="Step16Draws" computerName="LEX-PC" duration="00:00:00.0043089" startTime="2015-09-02T20:45:49.4143267+03:00" endTime="2015-09-02T20:45:49.4243267+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="253198f9-a1af-4221-aa2c-329fb4972add">
+    </UnitTestResult>
+    <UnitTestResult executionId="f6811a7c-a948-492c-aaad-f558e27d87d1" testId="1181f89c-35f6-3d26-7c96-6fc2cd175f0f" testName="Step17Draw" computerName="LEX-PC" duration="00:00:00.0002875" startTime="2015-09-02T20:45:49.4243267+03:00" endTime="2015-09-02T20:45:49.4618268+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f6811a7c-a948-492c-aaad-f558e27d87d1">
+    </UnitTestResult>
+    <UnitTestResult executionId="ff399878-af25-4dc3-83c6-0f670db64b24" testId="382a631b-3b0b-8740-3177-f51b1352a384" testName="Step17Draws" computerName="LEX-PC" duration="00:00:00.0002088" startTime="2015-09-02T20:45:49.4618268+03:00" endTime="2015-09-02T20:45:49.4618268+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ff399878-af25-4dc3-83c6-0f670db64b24">
+    </UnitTestResult>
+    <UnitTestResult executionId="cce5a47d-acf8-4d80-b8b0-920a3342b67c" testId="965504f5-14fc-5b1f-a3a7-cbb57ab3ee37" testName="Step18Draws" computerName="LEX-PC" duration="00:00:00.0001961" startTime="2015-09-02T20:45:49.4718269+03:00" endTime="2015-09-02T20:45:49.4718269+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cce5a47d-acf8-4d80-b8b0-920a3342b67c">
+    </UnitTestResult>
+    <UnitTestResult executionId="e5fcd33d-e624-4608-b1f8-97d7b8f7ffbf" testId="b5925866-6acd-cd19-213b-c63a03855260" testName="Step19Draw" computerName="LEX-PC" duration="00:00:00.0002244" startTime="2015-09-02T20:45:49.4818269+03:00" endTime="2015-09-02T20:45:49.4818269+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e5fcd33d-e624-4608-b1f8-97d7b8f7ffbf">
+    </UnitTestResult>
+    <UnitTestResult executionId="035b3237-b44e-4faf-8d6f-b67102d22eb3" testId="6eba079c-e717-df94-bab9-9c83a05db33a" testName="Step19Draws" computerName="LEX-PC" duration="00:00:00.0020066" startTime="2015-09-02T20:45:49.4918269+03:00" endTime="2015-09-02T20:45:49.5018269+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="035b3237-b44e-4faf-8d6f-b67102d22eb3">
+    </UnitTestResult>
+    <UnitTestResult executionId="dff3151d-a5d4-46a3-a567-1ca7ed25d963" testId="0bffd24b-23ce-eec2-06e9-b359a75fbd5f" testName="Step1Draw" computerName="LEX-PC" duration="00:00:00.0041258" startTime="2015-09-02T20:45:49.5018269+03:00" endTime="2015-09-02T20:45:49.5118269+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dff3151d-a5d4-46a3-a567-1ca7ed25d963">
+    </UnitTestResult>
+    <UnitTestResult executionId="ba477fbc-59d1-41af-a0f0-145a676dfdc8" testId="8a88b597-e0eb-7c5b-d5b4-c677ed5dc3e4" testName="Step1Draws" computerName="LEX-PC" duration="00:00:00.0002191" startTime="2015-09-02T20:45:49.5118269+03:00" endTime="2015-09-02T20:45:49.5218269+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ba477fbc-59d1-41af-a0f0-145a676dfdc8">
+    </UnitTestResult>
+    <UnitTestResult executionId="a9f34a4d-dfc4-44b9-895a-5558955ca880" testId="444c47bb-e90a-d588-fe52-2f7a6db80a79" testName="Step2Draws" computerName="LEX-PC" duration="00:00:00.0001933" startTime="2015-09-02T20:45:49.5218269+03:00" endTime="2015-09-02T20:45:49.5318269+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a9f34a4d-dfc4-44b9-895a-5558955ca880">
+    </UnitTestResult>
+    <UnitTestResult executionId="da795c38-8e9c-4528-9c61-99e69859cb4b" testId="a1bc02ad-cea8-ffbc-dbaa-b34b30f5f866" testName="Step2Play" computerName="LEX-PC" duration="00:00:00.0002129" startTime="2015-09-02T20:45:49.5318269+03:00" endTime="2015-09-02T20:45:49.5318269+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="da795c38-8e9c-4528-9c61-99e69859cb4b">
+    </UnitTestResult>
+    <UnitTestResult executionId="b39931f0-7a07-4106-b9b5-4abf109b2a2c" testId="df83b9ee-a4ef-4eb3-6424-91572472e495" testName="Step3Draw" computerName="LEX-PC" duration="00:00:00.0002039" startTime="2015-09-02T20:45:49.5318269+03:00" endTime="2015-09-02T20:45:49.5418270+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b39931f0-7a07-4106-b9b5-4abf109b2a2c">
+    </UnitTestResult>
+    <UnitTestResult executionId="e52f6a8b-2147-4964-8008-9d54a33cf97d" testId="9350d1d7-687a-e811-3917-f7a6995cc1a6" testName="Step3Draws" computerName="LEX-PC" duration="00:00:00.0001925" startTime="2015-09-02T20:45:49.5418270+03:00" endTime="2015-09-02T20:45:49.5518270+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e52f6a8b-2147-4964-8008-9d54a33cf97d">
+    </UnitTestResult>
+    <UnitTestResult executionId="7baed7d2-683f-46df-ab43-d7c020735fd0" testId="f145855d-72ef-e9ae-87df-6644b56bff05" testName="Step4Draws" computerName="LEX-PC" duration="00:00:00.0029273" startTime="2015-09-02T20:45:49.5518270+03:00" endTime="2015-09-02T20:45:49.5618270+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7baed7d2-683f-46df-ab43-d7c020735fd0">
+    </UnitTestResult>
+    <UnitTestResult executionId="6e67780d-d719-4e34-9582-4be4c70d2520" testId="7cbedcba-59de-901c-282c-2852956e776e" testName="Step4Play" computerName="LEX-PC" duration="00:00:00.0002093" startTime="2015-09-02T20:45:49.5618270+03:00" endTime="2015-09-02T20:45:49.5743270+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6e67780d-d719-4e34-9582-4be4c70d2520">
+    </UnitTestResult>
+    <UnitTestResult executionId="da902898-a46b-4757-8594-144770d88a26" testId="26759e02-ba8f-08c8-f015-f7682de3c0c8" testName="Step5Draw" computerName="LEX-PC" duration="00:00:00.0002326" startTime="2015-09-02T20:45:49.5743270+03:00" endTime="2015-09-02T20:45:49.5843270+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="da902898-a46b-4757-8594-144770d88a26">
+    </UnitTestResult>
+    <UnitTestResult executionId="109b7eb4-e8c2-4c63-b93a-bef9dc7f8223" testId="264bd29b-d2e0-ac8e-16cf-e26bf4ba315c" testName="Step5Draws" computerName="LEX-PC" duration="00:00:00.0002285" startTime="2015-09-02T20:45:49.5843270+03:00" endTime="2015-09-02T20:45:49.5843270+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="109b7eb4-e8c2-4c63-b93a-bef9dc7f8223">
+    </UnitTestResult>
+    <UnitTestResult executionId="df0ef1b3-f034-47a6-8aed-aacf268900d2" testId="8c767db9-712c-5bd5-5db0-b83896d05b71" testName="Step5Play" computerName="LEX-PC" duration="00:00:00.0007511" startTime="2015-09-02T20:45:49.5843270+03:00" endTime="2015-09-02T20:45:49.5943271+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="df0ef1b3-f034-47a6-8aed-aacf268900d2">
+    </UnitTestResult>
+    <UnitTestResult executionId="a1cf523d-4165-4883-8a16-bbb3aba70df3" testId="5c63f80a-0025-dbb1-2b98-37a0899156b2" testName="Step5Play2" computerName="LEX-PC" duration="00:00:00.0002035" startTime="2015-09-02T20:45:49.6043271+03:00" endTime="2015-09-02T20:45:49.6143271+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a1cf523d-4165-4883-8a16-bbb3aba70df3">
+    </UnitTestResult>
+    <UnitTestResult executionId="7bd07092-5199-4edd-904a-4f16fbddc227" testId="93f1d547-e37d-9d18-536d-6f30be9c971b" testName="Step6Draws" computerName="LEX-PC" duration="00:00:00.0001921" startTime="2015-09-02T20:45:49.6143271+03:00" endTime="2015-09-02T20:45:49.6243271+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7bd07092-5199-4edd-904a-4f16fbddc227">
+    </UnitTestResult>
+    <UnitTestResult executionId="566cc917-092a-4a63-9bca-81c55c0bed1c" testId="cfa286b5-4f77-7f98-1831-7e1599005da2" testName="Step6Play1" computerName="LEX-PC" duration="00:00:00.0002187" startTime="2015-09-02T20:45:49.6343271+03:00" endTime="2015-09-02T20:45:49.6343271+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="566cc917-092a-4a63-9bca-81c55c0bed1c">
+    </UnitTestResult>
+    <UnitTestResult executionId="5c216b51-24fb-415b-af99-26c7515a25c9" testId="33bd0cf6-2bee-de0b-e455-b816451af2e9" testName="Step6Play2" computerName="LEX-PC" duration="00:00:00.0002461" startTime="2015-09-02T20:45:49.6443271+03:00" endTime="2015-09-02T20:45:49.6443271+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5c216b51-24fb-415b-af99-26c7515a25c9">
+    </UnitTestResult>
+    <UnitTestResult executionId="f02fd709-8cb0-4e03-95c9-92712b2519c0" testId="a3567bd3-86db-96cf-b6af-1b34214dea95" testName="Step6Play3" computerName="LEX-PC" duration="00:00:00.0002117" startTime="2015-09-02T20:45:49.6443271+03:00" endTime="2015-09-02T20:45:49.6543271+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f02fd709-8cb0-4e03-95c9-92712b2519c0">
+    </UnitTestResult>
+    <UnitTestResult executionId="7e9d0617-a03b-4ca1-85a8-1b8112f73580" testId="b08e77c4-a4e8-5809-118a-855834372563" testName="Step7Attack1" computerName="LEX-PC" duration="00:00:00.0002064" startTime="2015-09-02T20:45:49.6643272+03:00" endTime="2015-09-02T20:45:49.6643272+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7e9d0617-a03b-4ca1-85a8-1b8112f73580">
+    </UnitTestResult>
+    <UnitTestResult executionId="bee09b73-071f-4737-9f9d-c2735ce29d5d" testId="3050124b-5f45-35e7-4b3a-b58b9cba4b21" testName="Step7Attacked1" computerName="LEX-PC" duration="00:00:00.0002023" startTime="2015-09-02T20:45:49.6643272+03:00" endTime="2015-09-02T20:45:49.6743272+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bee09b73-071f-4737-9f9d-c2735ce29d5d">
+    </UnitTestResult>
+    <UnitTestResult executionId="513d5af7-091d-4473-91ed-37c944b24f78" testId="699a599a-5bbb-76a3-e492-9aedc5a73e91" testName="Step7Draw" computerName="LEX-PC" duration="00:00:00.0002568" startTime="2015-09-02T20:45:49.6743272+03:00" endTime="2015-09-02T20:45:49.6843272+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="513d5af7-091d-4473-91ed-37c944b24f78">
+    </UnitTestResult>
+    <UnitTestResult executionId="10e11292-86e1-4f2e-a2f9-a9601652c725" testId="8d5ebee0-bf74-03e2-6890-c4c170d1c7e0" testName="Step7Draws" computerName="LEX-PC" duration="00:00:00.0002863" startTime="2015-09-02T20:45:49.6843272+03:00" endTime="2015-09-02T20:45:49.6943272+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="10e11292-86e1-4f2e-a2f9-a9601652c725">
+    </UnitTestResult>
+    <UnitTestResult executionId="2b6cb289-2948-47e5-9bd4-d60aea4e67dd" testId="e07a9fb8-11cc-5ae2-2d77-7d5ac2380c6e" testName="Step7Play" computerName="LEX-PC" duration="00:00:00.0051387" startTime="2015-09-02T20:45:49.7043272+03:00" endTime="2015-09-02T20:45:49.7143272+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2b6cb289-2948-47e5-9bd4-d60aea4e67dd">
+    </UnitTestResult>
+    <UnitTestResult executionId="98a7d077-517a-4711-9183-f6fb134f6a6e" testId="d62ad21f-9163-50a2-08ba-01ac4d1c8c5f" testName="Step8Attack1" computerName="LEX-PC" duration="00:00:00.0002285" startTime="2015-09-02T20:45:49.7143272+03:00" endTime="2015-09-02T20:45:49.7243272+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="98a7d077-517a-4711-9183-f6fb134f6a6e">
+    </UnitTestResult>
+    <UnitTestResult executionId="52acc0be-f1dd-4f6f-8e82-db4b1d421e31" testId="706d0cbc-24a0-8198-f6e6-f2802b15d9f2" testName="Step8Attack2" computerName="LEX-PC" duration="00:00:00.0002076" startTime="2015-09-02T20:45:49.7243272+03:00" endTime="2015-09-02T20:45:49.7343273+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="52acc0be-f1dd-4f6f-8e82-db4b1d421e31">
+    </UnitTestResult>
+    <UnitTestResult executionId="8bb1b74d-4391-48d3-8ae6-9c0a9b131b4b" testId="09fe4bbd-72a3-3ba0-1b2b-e32ef6d2bb57" testName="Step8Attacked1" computerName="LEX-PC" duration="00:00:00.0004710" startTime="2015-09-02T20:45:49.7343273+03:00" endTime="2015-09-02T20:45:49.7443273+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8bb1b74d-4391-48d3-8ae6-9c0a9b131b4b">
+    </UnitTestResult>
+    <UnitTestResult executionId="29378fb7-1fd7-4bed-bb83-7e616b68370d" testId="579d7cd4-190b-47ee-b882-eb217db8f74e" testName="Step8Attacked2" computerName="LEX-PC" duration="00:00:00.0002039" startTime="2015-09-02T20:45:49.7443273+03:00" endTime="2015-09-02T20:45:49.7443273+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="29378fb7-1fd7-4bed-bb83-7e616b68370d">
+    </UnitTestResult>
+    <UnitTestResult executionId="07cc1cc7-4b64-4809-9727-61c964be908f" testId="faab8b2d-fe47-d986-f085-37778af83a4e" testName="Step8Draws" computerName="LEX-PC" duration="00:00:00.0001892" startTime="2015-09-02T20:45:49.7643273+03:00" endTime="2015-09-02T20:45:49.7643273+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="07cc1cc7-4b64-4809-9727-61c964be908f">
+    </UnitTestResult>
+    <UnitTestResult executionId="065716a8-42e3-492b-a5d8-9fb9900cc15a" testId="45261fa7-34cc-5776-2efa-fd926c451ae8" testName="Step8Play" computerName="LEX-PC" duration="00:00:00.0002478" startTime="2015-09-02T20:45:49.7768274+03:00" endTime="2015-09-02T20:45:49.7893275+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="065716a8-42e3-492b-a5d8-9fb9900cc15a">
+    </UnitTestResult>
+    <UnitTestResult executionId="50fdf956-b192-44bc-b169-cf3899bf4208" testId="60de6676-51d2-ea01-7714-b2b3b93bf969" testName="Step9Draw" computerName="LEX-PC" duration="00:00:00.0008556" startTime="2015-09-02T20:45:49.8323283+03:00" endTime="2015-09-02T20:45:49.8393287+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50fdf956-b192-44bc-b169-cf3899bf4208">
+    </UnitTestResult>
+    <UnitTestResult executionId="d3d60b45-70cf-4c90-af76-84d321da0c2c" testId="9fa57097-eb01-cc39-778e-0ba92a4e0c8e" testName="Step9Draw2" computerName="LEX-PC" duration="00:00:00.0002740" startTime="2015-09-02T20:45:49.8453291+03:00" endTime="2015-09-02T20:45:49.8533295+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d3d60b45-70cf-4c90-af76-84d321da0c2c">
+    </UnitTestResult>
+    <UnitTestResult executionId="b4a12ea3-49e4-4ae3-bbe2-b11bb8395976" testId="b9e45b6b-3635-2d72-6648-789d9ba48802" testName="Step9Draws" computerName="LEX-PC" duration="00:00:00.0002039" startTime="2015-09-02T20:45:49.8553296+03:00" endTime="2015-09-02T20:45:49.8643302+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b4a12ea3-49e4-4ae3-bbe2-b11bb8395976">
+    </UnitTestResult>
+    <UnitTestResult executionId="e36b82ab-e757-4c33-b468-baf7b7508443" testId="fb326164-feea-e644-b554-18435313b0e0" testName="Step9Play" computerName="LEX-PC" duration="00:00:00.0003293" startTime="2015-09-02T20:45:49.8663303+03:00" endTime="2015-09-02T20:45:49.8753308+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e36b82ab-e757-4c33-b468-baf7b7508443">
+    </UnitTestResult>
+    <UnitTestResult executionId="ac1596e7-9729-4772-85cc-0717c680d5bd" testId="87595651-6bc1-54e4-d7bf-ceb9f7086e86" testName="TotalNumberOfTurnsShouldBe19" computerName="LEX-PC" duration="00:00:00.0002109" startTime="2015-09-02T20:45:49.8773309+03:00" endTime="2015-09-02T20:45:49.8813311+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ac1596e7-9729-4772-85cc-0717c680d5bd">
     </UnitTestResult>
   </Results>
 </TestRun>

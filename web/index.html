@@ -1,0 +1,27 @@
+<html>
+<head>
+
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/ocanvas/2.8.0/ocanvas.min.js"></script><!-- oCanvas -->
+	<script src="game.js" type="text/javascript"></script>
+</head>
+<body>
+<canvas id="container" width="1024" height="768" style="border:1px solid #000000;">
+</canvas>
+</body>
+<script type="text/javascript">
+var canvas = oCanvas.create({
+	canvas: "#container"
+});
+
+var image = canvas.display.image({
+	x: 0,
+	y: 0,
+	width:1024,
+	height:768,
+	image: "http://ps3hits.ru/wp-content/uploads/2015/08/hearthstone-game-sshot-1.jpg"
+});
+
+canvas.addChild(image);
+
+</script>
+</html>
