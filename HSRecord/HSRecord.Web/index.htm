@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="/data/cardimagemap.js"></script>
+    <script src="/scripts/constants.js"></script>
+    <script src="/scripts/Game.js"></script>
+    <script src="/scripts/Board.js"></script>
+    <script src="/scripts/Card.js"></script>
+    <script src="/scripts/Minion.js"></script>
+
+    <link href="style/board.css" rel="stylesheet" />
+    <link href="style/rotate.css" rel="stylesheet"/>
+    <link href="style/animation.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="scene">
+        <div id="board">
+            <div id="enemyHero" class="hero"></div>
+            <div id="enemySide" class="side">
+            </div>
+            <div id="enemyDeck" class="deck"></div>
+            <div id="friendlySide" class="side">
+            </div>
+            <div id="friendlyDeck" class="deck"></div>
+        </div>
+    </div>
+
+
+    <div class="flip">
+        <div class="card">
+            <div class="face front">
+            </div>
+            <div class="face back">
+            </div>
+        </div>
+    </div>
+<style>
+    body {
+        background-color: #DEC9B4;
+    }
+</style>
+    <script src="scripts/init.js"></script>
+</body>
+</html>
+

@@ -15,8 +15,8 @@
         protected static string GameFilePath
         {
             get { 
-			//return @"C:\Projects\HSRecord\HSRecord\data\Game32506171.txt"; 
-			return @"C:\prog\HSRecord\data\Game32506171.txt";
+			return @"C:\Projects\HSRecord\HSRecord\data\Game32506171.txt"; 
+			//return @"C:\prog\HSRecord\data\Game32506171.txt";
 			}
         }
 

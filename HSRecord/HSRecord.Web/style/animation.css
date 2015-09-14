@@ -1,0 +1,10 @@
+﻿@keyframes move-from-deck {
+    from { left: 760px;height: 30px;width: 20px;top: 302px;background-size: 20px 30px;}
+    to {left: 460px;height: 395px;width: 286px;top: 100px;background-size: 286px 395px;}
+}
+
+/* The element to apply the animation to */
+.animation-get-from-deck {
+    animation-name: move-from-deck;
+    animation-duration: 2s;
+}

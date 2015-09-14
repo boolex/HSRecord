@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSRecord.UnitTests", "HSRec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSRecord.Terminal", "HSRecord.Terminal\HSRecord.Terminal.csproj", "{6B61AB4A-7AC2-461E-9EEB-1BD684E0E0A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSRecord.Web", "HSRecord.Web\HSRecord.Web.csproj", "{749A5AE1-1049-46F4-AF26-ED8EC80134CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageGrabber", "ImageGrabber\ImageGrabber.csproj", "{3863AFDD-75F4-430B-93F4-0B763607E764}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{6B61AB4A-7AC2-461E-9EEB-1BD684E0E0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B61AB4A-7AC2-461E-9EEB-1BD684E0E0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B61AB4A-7AC2-461E-9EEB-1BD684E0E0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{749A5AE1-1049-46F4-AF26-ED8EC80134CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749A5AE1-1049-46F4-AF26-ED8EC80134CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749A5AE1-1049-46F4-AF26-ED8EC80134CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749A5AE1-1049-46F4-AF26-ED8EC80134CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3863AFDD-75F4-430B-93F4-0B763607E764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3863AFDD-75F4-430B-93F4-0B763607E764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3863AFDD-75F4-430B-93F4-0B763607E764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3863AFDD-75F4-430B-93F4-0B763607E764}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

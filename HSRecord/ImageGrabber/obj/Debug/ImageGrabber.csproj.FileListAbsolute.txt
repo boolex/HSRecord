@@ -1,0 +1,7 @@
+C:\Projects\HSRecord\HSRecord\HSRecord\ImageGrabber\bin\Debug\ImageGrabber.exe
+C:\Projects\HSRecord\HSRecord\HSRecord\ImageGrabber\bin\Debug\ImageGrabber.pdb
+C:\Projects\HSRecord\HSRecord\HSRecord\ImageGrabber\obj\Debug\ImageGrabber.csprojResolveAssemblyReference.cache
+C:\Projects\HSRecord\HSRecord\HSRecord\ImageGrabber\obj\Debug\ImageGrabber.exe
+C:\Projects\HSRecord\HSRecord\HSRecord\ImageGrabber\obj\Debug\ImageGrabber.pdb
+C:\Projects\HSRecord\HSRecord\HSRecord\ImageGrabber\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\HSRecord\HSRecord\HSRecord\ImageGrabber\bin\Debug\Newtonsoft.Json.xml

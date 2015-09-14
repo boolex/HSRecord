@@ -1,0 +1,102 @@
+﻿
+    #scene {
+        position: relative;
+    } 
+    #board {
+        /*background-image:url(https://bnetcmsus-a.akamaihd.net/cms/gallery/DBLEQKKDGKF61379665685147.jpg );*/
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 898px;
+        height: 594px;
+    }
+
+    .hero {
+        height: 180px;
+    }
+
+    .side {
+        text-align: center;
+        margin-left: 0px;
+        margin-top: 3px;
+    }
+    .taunt {
+        background-image: url(http://www.squisher.co/images/taunt_shield.png);
+        width: 100%;
+        height: 100%;
+        background-size: 108px 146px;
+        position: absolute;
+        background-position: -25px -10px;
+    }
+
+    .minion-on-board {
+        border-radius: 50%;
+        width: 60px;
+        height: 95px;
+        display: inline-block;
+        position: relative;
+        opacity: 1.7;
+        margin-left: 10px;
+        margin-right: 0px;
+    }
+
+    .minion-on-board-info {
+        position: absolute;
+        width: 16px;
+        height: 16px;
+        color: white;
+        top: 55px;
+        border-radius: 15px;
+        font-size: 17px;
+        font-weight: bold;
+        text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+        line-height: 16px;
+        border: 1px solid black;
+        font-family: 'Trebuchet MS';
+        text-align: center;
+    }
+
+    .minion-on-board .attack {
+        left: -2px;
+        background-color: #DBD400;
+    }
+
+    .minion-on-board .health {
+        left: 45px;
+        background-color: #BD1515;
+    }
+
+    .highlighted {
+        border: 5px solid #26FF00;
+        border-bottom: none;
+    }
+    .minion-on-board-icon {
+        width: 60px;
+        height: 84px;
+        background-repeat: no-repeat;
+        background-position: -25px -10px;
+        background-size: 108px 150px;
+        border-radius: 50%;
+        border: 2px solid #69685F;
+    }
+    .card-item {
+        width: 286px;
+        height: 395px;
+        background-repeat: no-repeat;
+        position: absolute;
+        left: 460px;
+        top: 100px;
+    }
+    .deck {
+        position: absolute;
+        width: 40px;
+        height: 100px;
+        border: 1px solid black;
+        left: 790px;
+       
+    }
+    #enemyDeck {
+        top: 140px;
+    }
+    #friendlyDeck {
+        top: 300px;
+    }
