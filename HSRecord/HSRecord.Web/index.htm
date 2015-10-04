@@ -6,15 +6,21 @@
     <script src="/scripts/constants.js"></script>
     <script src="/scripts/Game.js"></script>
     <script src="/scripts/Board.js"></script>
+	<script src="/scripts/Hand.js"></script>
     <script src="/scripts/Card.js"></script>
     <script src="/scripts/Minion.js"></script>
 
     <link href="style/board.css" rel="stylesheet" />
+	<link href="style/hand.css" rel="stylesheet" />
     <link href="style/rotate.css" rel="stylesheet"/>
     <link href="style/animation.css" rel="stylesheet" />
 </head>
 <body>
     <div id="scene">
+		<div id="enemyHand" class="hand"></div>
+		<div class="hero-enemy-view">
+			<div class="shape"> </div>
+		</div>
         <div id="board">
             <div id="enemyHero" class="hero"></div>
             <div id="enemySide" class="side">
@@ -24,21 +30,52 @@
             </div>
             <div id="friendlyDeck" class="deck"></div>
         </div>
+		<div class="hero-view ">
+			<div class="shape"> </div>
+		</div>
+		<div id="friendlyHand" class="hand"></div>
     </div>
 
 
-    <div class="flip">
+   <!--  <div class="flip">
         <div class="card">
             <div class="face front">
             </div>
             <div class="face back">
             </div>
         </div>
-    </div>
+    </div> -->	
+	<!-- <div class="card-in-hand some-card-image rotate8" style="left:200px;"></div>
+	<div class="card-in-hand some-card-image rotate12" style="left:240px;"></div>
+	<div class="card-in-hand some-card-image rotate16" style="left:280px;"></div>
+	<div class="card-in-hand some-card-image rotate20" style="left:320px;"></div> -->
 <style>
     body {
         background-color: #DEC9B4;
     }
+	.hero-view{
+		position:absolute;
+		top:508px;
+		left:413px;
+	}
+	.hero-enemy-view{
+		position:absolute;
+		top:160px;
+		left:413px;
+	}
+	.shape{
+		margin:0 auto;
+		width:75px;
+		height:87px;
+		border:3px solid black;background-color:red;z-index:10;
+		-webkit-border-top-left-radius: 220px;
+-webkit-border-top-right-radius: 220px;
+-moz-border-radius-topleft: 220px;
+-moz-border-radius-topright: 220px;
+border-top-left-radius: 220px;
+border-top-right-radius: 220px;
+opacity:0.4;
+	}
 </style>
     <script src="scripts/init.js"></script>
 </body>

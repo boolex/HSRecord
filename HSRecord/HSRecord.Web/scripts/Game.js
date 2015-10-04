@@ -1,5 +1,7 @@
 ﻿function Game() {
     this.board = new Board();
+	this.friendlyHand = new Hand(Constant.Side.Friendly);
+	this.enemyHand = new Hand(Constant.Side.Enemy);
 }
 Game.prototype.init = function () {
     this.loadCards();
@@ -41,13 +43,17 @@ Game.prototype.drawCard=function(cardId, side) {
     var card = new Card(cardId);
     var cardElement = card.buildCardElement();
     cardElement.style["background-image"] = "url(" + this.getCardImageLink(cardId) + ")";
-    var board = this.getBoard();
-    board.htmlElement.appendChild(cardElement);
+ //   var board = this.getBoard();
+  //  board.htmlElement.appendChild(cardElement);   
     //showCardAnimation(deck);
     //putCarInHandAnimation(hand);
+	hand.put(card, cardElement);
 }
 Game.prototype.getHand = function (side) {
-
+	if(side == Constant.Side.Enemy)
+		return this.enemyHand;
+	
+	return this.friendlyHand
 }
 Game.prototype.getBoard=function() {
     return this.board;

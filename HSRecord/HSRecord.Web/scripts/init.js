@@ -34,3 +34,11 @@ for (var i = 0; i < enemyMinions.length; i++) {
 }
 
 game.drawCard("GVG_051");
+game.drawCard("GVG_016");
+game.drawCard("GVG_018");
+game.drawCard("GVG_013");
+
+game.drawCard("GVG_048");
+game.drawCard("GVG_093");
+game.drawCard("GVG_037");
+game.drawCard("GVG_040");

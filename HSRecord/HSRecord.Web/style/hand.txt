@@ -1,0 +1,2 @@
+.hand-cards-10{}
+.hand-cards-10 .card-in-hand:nth-child(1){}

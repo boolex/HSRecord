@@ -3,7 +3,7 @@
         position: relative;
     } 
     #board {
-        /*background-image:url(https://bnetcmsus-a.akamaihd.net/cms/gallery/DBLEQKKDGKF61379665685147.jpg );*/
+       background-image:url(https://bnetcmsus-a.akamaihd.net/cms/gallery/DBLEQKKDGKF61379665685147.jpg ); 
         background-repeat: no-repeat;
         background-size: cover;
         width: 898px;
@@ -94,9 +94,26 @@
         left: 790px;
        
     }
+	.card-in-hand{
+		background-size: 143px 198px;
+		height: 198px;
+		width: 143px;
+	}
+	.hand{
+		width:200px;
+		height:100px;
+		background-color:red;
+	}
+	.some-card-image{
+		background-image: url(http://media-hearth.cursecdn.com/avatars/148/773/12197.png);
+		position:absolute;
+		top:100px;
+		left:300px;
+	}	
     #enemyDeck {
         top: 140px;
     }
     #friendlyDeck {
         top: 300px;
     }
+	

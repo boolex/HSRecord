@@ -1,0 +1,28 @@
+.hand-cards-1{}
+.hand-cards-1 .card-item:nth-child(1){left:400px;}
+
+.hand-cards-2{}
+.hand-cards-2 .card-item:nth-child(1){left:360px;}
+.hand-cards-2 .card-item:nth-child(2){left:440px;}
+
+.hand-cards-3{}
+.hand-cards-3 .card-item:nth-child(1){left:330px;}
+.hand-cards-3 .card-item:nth-child(2){left:400px;}
+.hand-cards-3 .card-item:nth-child(3){left:470px;}
+
+.hand-cards-4{}
+.hand-cards-4 .card-item:nth-child(1){left:340px;transform:rotate(-10deg);top:460px;}
+.hand-cards-4 .card-item:nth-child(2){left:380px;transform:rotate(-5deg);top:455px;}
+.hand-cards-4 .card-item:nth-child(3){left:420px;transform:rotate(5deg);top:455px;}
+.hand-cards-4 .card-item:nth-child(4){left:460px;transform:rotate(10deg);top:460px;}
+
+.hand-cards-8{}
+.hand-cards-8 .card-item:nth-child(1){left:295px;transform:rotate(-17deg);top:625px;}
+.hand-cards-8 .card-item:nth-child(2){left:325px;transform:rotate(-12deg);top:620px;}
+.hand-cards-8 .card-item:nth-child(3){left:355px;transform:rotate(-7deg);top:615px;}
+.hand-cards-8 .card-item:nth-child(4){left:385px;transform:rotate(-2deg);top:610px;}
+.hand-cards-8 .card-item:nth-child(5){left:415px;transform:rotate(2deg);top:610px;}
+.hand-cards-8 .card-item:nth-child(6){left:445px;transform:rotate(7deg);top:615px;}
+.hand-cards-8 .card-item:nth-child(7){left:475px;transform:rotate(12deg);top:625px;}
+.hand-cards-8 .card-item:nth-child(8){left:505px;transform:rotate(17deg);top:630px;}
+
