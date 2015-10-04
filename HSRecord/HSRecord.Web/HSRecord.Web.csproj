@@ -106,6 +106,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="scripts\Board.js" />
+    <Content Include="scripts\Card.js" />
+    <Content Include="scripts\Game.js" />
+    <Content Include="scripts\Minion.js" />
+    <Content Include="style\animation.css" />
+    <Content Include="style\board.css" />
+    <Content Include="scripts\init.js" />
+    <Content Include="style\rotate.css" />
     <Content Include="Web.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -116,13 +124,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.htm" />
-    <Content Include="scripts\AllSets.js" />
+    <Content Include="data\AllSets.js" />
     <Content Include="scripts\constants.js" />
-    <Content Include="scripts\game.js" />
-    <Content Include="scripts\lib.js" />
+    <Content Include="data\game1.js" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="scripts\AllSets.json" />
+    <Content Include="data\AllSets.json" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
